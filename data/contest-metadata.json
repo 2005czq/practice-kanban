@@ -1,0 +1,354 @@
+{
+  "contests": {
+    "1780": {
+      "problemOrder": [
+        "A",
+        "B",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "problemNames": {
+        "A": "Hayato and School",
+        "B": "GCD Partition",
+        "D": "Bit Guessing Game",
+        "E": "Josuke and Complete Graph",
+        "F": "Three Chairs",
+        "G": "Delicious Dessert"
+      }
+    },
+    "1898": {
+      "problemOrder": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F"
+      ],
+      "problemNames": {
+        "A": "Milica and String",
+        "B": "Milena and Admirer",
+        "C": "Colorful Grid",
+        "D": "Absolute Beauty",
+        "E": "Sofia and Strings",
+        "F": "Vova Escapes the Matrix"
+      }
+    },
+    "2082": {
+      "problemOrder": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F"
+      ],
+      "problemNames": {
+        "A": "Binary Matrix",
+        "B": "Floor or Ceil",
+        "C": "Math Division",
+        "D": "Balancing",
+        "E": "Quaternary Matrix",
+        "F": "MST in Modulo Graph"
+      }
+    },
+    "2139": {
+      "problemOrder": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E1",
+        "E2",
+        "F"
+      ],
+      "problemNames": {
+        "A": "Maple and Multiplication",
+        "B": "Cake Collection",
+        "C": "Cake Assignment",
+        "D": "Antiamuny Wants to Learn Swap",
+        "E1": "Maple and Tree Beauty (Easy Version)",
+        "E2": "Maple and Tree Beauty (Hard Version)",
+        "F": "Antiamuny and Slider Movement"
+      }
+    },
+    "2155": {
+      "problemOrder": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F"
+      ],
+      "problemNames": {
+        "A": "El fucho",
+        "B": "Abraham's Great Escape",
+        "C": "The Ancient Wizards' Capes",
+        "D": "Batteries",
+        "E": "Mimo \u0026 Yuyu",
+        "F": "Juan's Colorful Tree"
+      }
+    },
+    "2166": {
+      "problemOrder": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F"
+      ],
+      "problemNames": {
+        "A": "Same Difference",
+        "B": "Tab Closing",
+        "C": "Cyclic Merging",
+        "D": "Marble Council",
+        "E": "Binary Wine",
+        "F": "Path Split"
+      }
+    },
+    "2188": {
+      "problemOrder": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "problemNames": {
+        "A": "Divisible Permutation",
+        "B": "Seats",
+        "C": "Restricted Sorting",
+        "D": "Shortest Statement Ever",
+        "E": "Jerry and Tom",
+        "F": "Cool Problem",
+        "G": "Doors and Keys"
+      }
+    },
+    "2189": {
+      "problemOrder": [
+        "A",
+        "B",
+        "C1",
+        "C2",
+        "D1",
+        "D2",
+        "E",
+        "F"
+      ],
+      "problemNames": {
+        "A": "Table with Numbers",
+        "B": "The Curse of the Frog",
+        "C1": "XOR Convenience (Easy Version)",
+        "C2": "XOR-convenience (Hard Version)",
+        "D1": "Little String (Easy Version)",
+        "D2": "Little String (Hard Version)",
+        "E": "Majority Wins?",
+        "F": "Zhora the Vacuum Cleaner"
+      }
+    },
+    "2191": {
+      "problemOrder": [
+        "A",
+        "B",
+        "C",
+        "D1",
+        "D2",
+        "E",
+        "F",
+        "G"
+      ],
+      "problemNames": {
+        "A": "Array Coloring",
+        "B": "MEX Reordering",
+        "C": "Sorting Game",
+        "D1": "Sub-RBS (Easy Version)",
+        "D2": "Sub-RBS (Hard Version)",
+        "E": "Comparable Permutations",
+        "F": "Prufer Vertex",
+        "G": "Median Permutation"
+      }
+    },
+    "2192": {
+      "problemOrder": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F"
+      ],
+      "problemNames": {
+        "A": "String Rotation Game",
+        "B": "Flipping Binary String",
+        "C": "All-in-one Gun",
+        "D": "Cost of Tree",
+        "E": "Swap to Rearrange",
+        "F": "Fish Fight"
+      }
+    },
+    "2194": {
+      "problemOrder": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F1",
+        "F2"
+      ],
+      "problemNames": {
+        "A": "Lawn Mower",
+        "B": "Offshores",
+        "C": "Secret message",
+        "D": "Table Cut",
+        "E": "The Turtle Strikes Back",
+        "F1": "Again Trees... (Easy Version)",
+        "F2": "Again Trees... (hard version)"
+      }
+    },
+    "2197": {
+      "problemOrder": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E1",
+        "E2",
+        "F"
+      ],
+      "problemNames": {
+        "A": "Friendly Numbers",
+        "B": "Array and Permutation",
+        "C": "Game with a Fraction",
+        "D": "Another Problem about Beautiful Pairs",
+        "E1": "Interactive Graph (Simple Version)",
+        "E2": "Interactive Graph (Hard Version)",
+        "F": "Double Bracket Sequence"
+      }
+    },
+    "2202": {
+      "problemOrder": [
+        "A",
+        "B",
+        "C1",
+        "C2",
+        "D",
+        "E",
+        "F",
+        "G1",
+        "G2"
+      ],
+      "problemNames": {
+        "A": "Parkour Design",
+        "B": "ABAB Construction",
+        "C1": "Lost Civilization (Easy Version)",
+        "C2": "Lost Civilization (Hard Version)",
+        "D": "Recollect Numbers",
+        "E": "Rigged Bracket Sequence",
+        "F": "Binary Not Search and Queries",
+        "G1": "Monotone Monochrome Matrices (Easy Version)",
+        "G2": "Monotone Monochrome Matrices (Hard Version)"
+      }
+    },
+    "2203": {
+      "problemOrder": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F"
+      ],
+      "problemNames": {
+        "A": "Towers of Boxes",
+        "B": "Beautiful Numbers",
+        "C": "Test Generator",
+        "D": "Divisibility Game",
+        "E": "Probabilistic Card Game",
+        "F": "Binary Search with One Swap"
+      }
+    },
+    "2205": {
+      "problemOrder": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "problemNames": {
+        "A": "Simons and Making It Beautiful",
+        "B": "Simons and Cakes for Success",
+        "C": "Simons and Posting Blogs",
+        "D": "Simons and Beating Peaks",
+        "E": "Simons and Dividing the Rhythm",
+        "F": "Simons and Reconstructing His Roads",
+        "G": "Simons and Diophantus Equation"
+      }
+    },
+    "2208": {
+      "problemOrder": [
+        "A",
+        "B",
+        "C",
+        "D1",
+        "D2",
+        "E"
+      ],
+      "problemNames": {
+        "A": "Bingo Candies",
+        "B": "Cyclists",
+        "C": "Stamina and Tasks",
+        "D1": "Tree Orientation (Easy Version)",
+        "D2": "Tree Orientation (Hard Version)",
+        "E": "Counting Cute Arrays"
+      }
+    },
+    "2209": {
+      "problemOrder": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F"
+      ],
+      "problemNames": {
+        "A": "Flip Flops",
+        "B": "Array",
+        "C": "Find the Zero",
+        "D": "Ghostfires",
+        "E": "A Trivial String Problem",
+        "F": "Dynamic Values And Maximum Sum"
+      }
+    },
+    "2210": {
+      "problemOrder": [
+        "A",
+        "B",
+        "C1",
+        "C2",
+        "D",
+        "E",
+        "F"
+      ],
+      "problemNames": {
+        "A": "A Simple Sequence",
+        "B": "Simply Sitting on Chairs",
+        "C1": "A Simple GCD Problem (Easy Version)",
+        "C2": "A Simple GCD Problem (Hard Version)",
+        "D": "A Simple RBS Problem",
+        "E": "Binary Strings are Simple?",
+        "F": "A Simple Problem"
+      }
+    }
+  }
+}

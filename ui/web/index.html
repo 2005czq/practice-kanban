@@ -1,0 +1,81 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Practice Kanban</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;500;600;700;800&family=JetBrains+Mono:wght@500;700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="/assets/styles.css" />
+  </head>
+  <body>
+    <div class="app-shell">
+      <div class="backdrop backdrop-a"></div>
+      <div class="backdrop backdrop-b"></div>
+
+      <main class="app">
+        <header class="hero">
+          <div>
+            <h1 id="app-title">Practice Kanban</h1>
+          </div>
+          <div class="meta-compact">
+            <span class="meta-label">Last update</span>
+            <strong id="meta-updated">--</strong>
+          </div>
+        </header>
+
+        <section class="tabs-panel">
+          <div id="tab-list" class="tabs" role="tablist" aria-label="Users"></div>
+        </section>
+
+        <section id="state-banner" class="state-banner hidden"></section>
+
+        <section id="user-view" class="user-view hidden">
+          <div class="profile-card reveal">
+            <div class="profile-heading">
+              <div class="profile-avatar-wrap">
+                <img id="profile-avatar" class="profile-avatar" alt="" />
+              </div>
+              <div class="profile-text">
+                <h2 id="profile-name">Handle</h2>
+                <span id="profile-rating" class="rating-line"></span>
+              </div>
+            </div>
+            <div id="profile-summary" class="profile-summary"></div>
+          </div>
+
+          <div class="contest-board reveal">
+            <div id="contest-list" class="contest-list"></div>
+          </div>
+        </section>
+      </main>
+    </div>
+
+    <template id="contest-template">
+      <article class="contest-row">
+        <div class="contest-main">
+          <div class="contest-title-block">
+            <a class="contest-link" target="_blank" rel="noreferrer noopener"></a>
+            <div class="contest-meta"></div>
+          </div>
+          <div class="problem-strip"></div>
+        </div>
+      </article>
+    </template>
+
+    <template id="problem-template">
+      <div class="problem-cell">
+        <a class="problem-index" target="_blank" rel="noreferrer noopener"></a>
+        <a class="problem-pill-link" target="_blank" rel="noreferrer noopener">
+          <span class="problem-pill"></span>
+        </a>
+      </div>
+    </template>
+
+    <script type="module" src="/assets/app.js"></script>
+  </body>
+</html>

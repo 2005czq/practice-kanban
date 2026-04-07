@@ -1,0 +1,72 @@
+name: Build And Deploy Pages
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '17 * * * *'
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    env:
+      USERS: ${{ secrets.USERS }}
+      TIME: ${{ secrets.TIME }}
+      TITLE: ${{ secrets.TITLE }}
+      TZ: ${{ secrets.TZ }}
+      CACHE_FILE: data/cache.json
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Go
+        uses: actions/setup-go@v5
+        with:
+          go-version-file: go.mod
+
+      - name: Generate static site
+        run: |
+          if [ -z "$USERS" ] || [ -z "$TIME" ] || [ -z "$TITLE" ]; then
+            echo "USERS, TIME, and TITLE secrets must be configured." >&2
+            exit 1
+          fi
+          if [ -z "$TZ" ]; then
+            export TZ=Asia/Shanghai
+          fi
+          go run .
+
+      - name: Commit refreshed data
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add data/cache.json data/contest-metadata.json docs
+          git diff --cached --quiet && exit 0
+          git commit -m "chore: refresh dashboard data"
+          git push
+
+      - name: Configure Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: docs
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
