@@ -1,21 +1,95 @@
 {
   "title": "Practice Kanban",
   "startDate": "2026-03-09",
-  "generatedAt": "2026-04-08T13:56:36+08:00",
-  "updatedAtLabel": "2026-04-08 13:56 CST",
+  "generatedAt": "2026-04-08T15:52:20+08:00",
+  "updatedAtLabel": "2026-04-08 15:52 CST",
   "users": [
     {
       "handle": "Zihim",
       "avatarUrl": "https://userpic.codeforces.org/no-title.jpg",
       "currentRating": {
-        "value": 1593,
-        "rank": "specialist"
+        "value": 1612,
+        "rank": "expert"
       },
       "maxRating": {
         "value": 1676,
         "rank": "expert"
       },
       "contests": [
+        {
+          "contestId": 2189,
+          "name": "Codeforces Round 1075 (Div. 2)",
+          "url": "https://codeforces.com/contest/2189",
+          "friendsStandingsUrl": "https://codeforces.com/contest/2189/standings/friends/true",
+          "problems": [
+            {
+              "index": "A",
+              "name": "Table with Numbers",
+              "url": "https://codeforces.com/contest/2189/problem/A",
+              "status": "virtual",
+              "attemptsLabel": "+",
+              "attempts": 0
+            },
+            {
+              "index": "B",
+              "name": "The Curse of the Frog",
+              "url": "https://codeforces.com/contest/2189/problem/B",
+              "status": "virtual",
+              "attemptsLabel": "+1",
+              "attempts": 1
+            },
+            {
+              "index": "C1",
+              "name": "XOR Convenience (Easy Version)",
+              "url": "https://codeforces.com/contest/2189/problem/C1",
+              "status": "pending",
+              "attemptsLabel": "--",
+              "attempts": 0
+            },
+            {
+              "index": "C2",
+              "name": "XOR-convenience (Hard Version)",
+              "url": "https://codeforces.com/contest/2189/problem/C2",
+              "status": "pending",
+              "attemptsLabel": "--",
+              "attempts": 0
+            },
+            {
+              "index": "D1",
+              "name": "Little String (Easy Version)",
+              "url": "https://codeforces.com/contest/2189/problem/D1",
+              "status": "pending",
+              "attemptsLabel": "--",
+              "attempts": 0
+            },
+            {
+              "index": "D2",
+              "name": "Little String (Hard Version)",
+              "url": "https://codeforces.com/contest/2189/problem/D2",
+              "status": "pending",
+              "attemptsLabel": "--",
+              "attempts": 0
+            },
+            {
+              "index": "E",
+              "name": "Majority Wins?",
+              "url": "https://codeforces.com/contest/2189/problem/E",
+              "status": "pending",
+              "attemptsLabel": "--",
+              "attempts": 0
+            },
+            {
+              "index": "F",
+              "name": "Zhora the Vacuum Cleaner",
+              "url": "https://codeforces.com/contest/2189/problem/F",
+              "status": "pending",
+              "attemptsLabel": "--",
+              "attempts": 0
+            }
+          ],
+          "startedAt": "2026-01-23 22:35",
+          "virtualAt": "2026-04-08 15:00"
+        },
         {
           "contestId": 2209,
           "name": "Codeforces Round 1087 (Div. 2)",
@@ -352,7 +426,7 @@
       "handle": "yangxuan",
       "avatarUrl": "https://userpic.codeforces.org/4392842/title/9f0e79a94f720d00.jpg",
       "currentRating": {
-        "value": 1485,
+        "value": 1508,
         "rank": "specialist"
       },
       "maxRating": {
@@ -688,7 +762,7 @@
       "handle": "cjtyyds",
       "avatarUrl": "https://userpic.codeforces.org/no-title.jpg",
       "currentRating": {
-        "value": 1212,
+        "value": 1221,
         "rank": "pupil"
       },
       "maxRating": {
@@ -1836,14 +1910,88 @@
       "handle": "Hone7",
       "avatarUrl": "https://userpic.codeforces.org/4382473/title/c25533fcf0f55c17.jpg",
       "currentRating": {
-        "value": 1046,
+        "value": 1125,
         "rank": "newbie"
       },
       "maxRating": {
-        "value": 1046,
+        "value": 1125,
         "rank": "newbie"
       },
       "contests": [
+        {
+          "contestId": 2182,
+          "name": "Educational Codeforces Round 186 (Rated for Div. 2)",
+          "url": "https://codeforces.com/contest/2182",
+          "friendsStandingsUrl": "https://codeforces.com/contest/2182/standings/friends/true",
+          "problems": [
+            {
+              "index": "A",
+              "name": "New Year String",
+              "url": "https://codeforces.com/contest/2182/problem/A",
+              "status": "virtual",
+              "attemptsLabel": "+",
+              "attempts": 0
+            },
+            {
+              "index": "B",
+              "name": "New Year Cake",
+              "url": "https://codeforces.com/contest/2182/problem/B",
+              "status": "virtual",
+              "attemptsLabel": "+",
+              "attempts": 0
+            },
+            {
+              "index": "C",
+              "name": "Production of Snowmen",
+              "url": "https://codeforces.com/contest/2182/problem/C",
+              "status": "pending",
+              "attemptsLabel": "--",
+              "attempts": 0
+            },
+            {
+              "index": "D",
+              "name": "Christmas Tree Decoration",
+              "url": "https://codeforces.com/contest/2182/problem/D",
+              "status": "pending",
+              "attemptsLabel": "--",
+              "attempts": 0
+            },
+            {
+              "index": "E",
+              "name": "New Year's Gifts",
+              "url": "https://codeforces.com/contest/2182/problem/E",
+              "status": "pending",
+              "attemptsLabel": "--",
+              "attempts": 0
+            },
+            {
+              "index": "F1",
+              "name": "Christmas Reindeer (easy version)",
+              "url": "https://codeforces.com/contest/2182/problem/F1",
+              "status": "pending",
+              "attemptsLabel": "--",
+              "attempts": 0
+            },
+            {
+              "index": "F2",
+              "name": "Christmas Reindeer (hard version)",
+              "url": "https://codeforces.com/contest/2182/problem/F2",
+              "status": "pending",
+              "attemptsLabel": "--",
+              "attempts": 0
+            },
+            {
+              "index": "G",
+              "name": "Short Garland",
+              "url": "https://codeforces.com/contest/2182/problem/G",
+              "status": "pending",
+              "attemptsLabel": "--",
+              "attempts": 0
+            }
+          ],
+          "startedAt": "2025-12-29 22:35",
+          "virtualAt": "2026-04-08 15:20"
+        },
         {
           "contestId": 2189,
           "name": "Codeforces Round 1075 (Div. 2)",

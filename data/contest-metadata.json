@@ -110,6 +110,28 @@
         "F": "Path Split"
       }
     },
+    "2182": {
+      "problemOrder": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F1",
+        "F2",
+        "G"
+      ],
+      "problemNames": {
+        "A": "New Year String",
+        "B": "New Year Cake",
+        "C": "Production of Snowmen",
+        "D": "Christmas Tree Decoration",
+        "E": "New Year's Gifts",
+        "F1": "Christmas Reindeer (easy version)",
+        "F2": "Christmas Reindeer (hard version)",
+        "G": "Short Garland"
+      }
+    },
     "2188": {
       "problemOrder": [
         "A",
