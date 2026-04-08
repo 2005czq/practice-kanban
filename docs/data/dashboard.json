@@ -1,8 +1,8 @@
 {
   "title": "Practice Kanban",
   "startDate": "2026-03-09",
-  "generatedAt": "2026-04-08T17:18:19+08:00",
-  "updatedAtLabel": "2026-04-08 17:18 CST",
+  "generatedAt": "2026-04-08T19:14:57+08:00",
+  "updatedAtLabel": "2026-04-08 19:14 CST",
   "users": [
     {
       "handle": "Zihim",
@@ -1944,8 +1944,8 @@
               "index": "C",
               "name": "Production of Snowmen",
               "url": "https://codeforces.com/contest/2182/problem/C",
-              "status": "pending",
-              "attemptsLabel": "--",
+              "status": "upsolved",
+              "attemptsLabel": "+",
               "attempts": 0
             },
             {
