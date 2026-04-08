@@ -1,8 +1,8 @@
 {
   "title": "Practice Kanban",
   "startDate": "2026-03-09",
-  "generatedAt": "2026-04-08T11:31:34+08:00",
-  "updatedAtLabel": "2026-04-08 11:31 CST",
+  "generatedAt": "2026-04-08T13:56:36+08:00",
+  "updatedAtLabel": "2026-04-08 13:56 CST",
   "users": [
     {
       "handle": "Zihim",
@@ -714,8 +714,8 @@
               "index": "B",
               "name": "Offshores",
               "url": "https://codeforces.com/contest/2194/problem/B",
-              "status": "pending",
-              "attemptsLabel": "--",
+              "status": "upsolved",
+              "attemptsLabel": "+",
               "attempts": 0
             },
             {
