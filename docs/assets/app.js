@@ -33,6 +33,7 @@ const elements = {
   tabList: document.querySelector('#tab-list'),
   stateBanner: document.querySelector('#state-banner'),
   userView: document.querySelector('#user-view'),
+  profileLink: document.querySelector('#profile-link'),
   profileAvatar: document.querySelector('#profile-avatar'),
   profileName: document.querySelector('#profile-name'),
   profileRating: document.querySelector('#profile-rating'),
@@ -78,6 +79,7 @@ function renderApp() {
 function renderTabs() {
   elements.tabList.innerHTML = '';
   const fragment = document.createDocumentFragment();
+  let selectedButton = null;
 
   state.payload.users.forEach((user, index) => {
     const button = document.createElement('button');
@@ -94,10 +96,16 @@ function renderTabs() {
       renderTabs();
       renderUser();
     });
+    if (index === state.selectedIndex) {
+      selectedButton = button;
+    }
     fragment.appendChild(button);
   });
 
   elements.tabList.appendChild(fragment);
+  if (selectedButton) {
+    selectedButton.scrollIntoView({ block: 'nearest', inline: 'center', behavior: 'smooth' });
+  }
 }
 
 function renderUser() {
@@ -110,6 +118,10 @@ function renderUser() {
   const maxColor = ratingColor(user.maxRating.value);
   const currentTitle = ratingTitle(user.currentRating.value) || user.currentRating.rank;
   const maxTitle = ratingTitle(user.maxRating.value) || user.maxRating.rank;
+  const profileUrl = profileURL(user.handle);
+
+  elements.profileLink.href = profileUrl;
+  elements.profileLink.setAttribute('aria-label', `Open ${user.handle} profile`);
 
   if (user.avatarUrl) {
     elements.profileAvatar.src = user.avatarUrl;
@@ -241,6 +253,10 @@ function labelForStatus(status) {
     default:
       return 'not attempted';
   }
+}
+
+function profileURL(handle) {
+  return `https://codeforces.com/profile/${encodeURIComponent(handle)}`;
 }
 
 function escapeHtml(value) {

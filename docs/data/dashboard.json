@@ -1,8 +1,8 @@
 {
   "title": "Practice Kanban",
   "startDate": "2026-03-09",
-  "generatedAt": "2026-04-07T08:34:28+08:00",
-  "updatedAtLabel": "2026-04-07 08:34 CST",
+  "generatedAt": "2026-04-08T10:59:09+08:00",
+  "updatedAtLabel": "2026-04-08 10:59 CST",
   "users": [
     {
       "handle": "Zihim",
@@ -696,6 +696,72 @@
         "rank": "pupil"
       },
       "contests": [
+        {
+          "contestId": 2194,
+          "name": "Codeforces Round 1078 (Div. 2)",
+          "url": "https://codeforces.com/contest/2194",
+          "friendsStandingsUrl": "https://codeforces.com/contest/2194/standings/friends/true",
+          "problems": [
+            {
+              "index": "A",
+              "name": "Lawn Mower",
+              "url": "https://codeforces.com/contest/2194/problem/A",
+              "status": "virtual",
+              "attemptsLabel": "+1",
+              "attempts": 1
+            },
+            {
+              "index": "B",
+              "name": "Offshores",
+              "url": "https://codeforces.com/contest/2194/problem/B",
+              "status": "pending",
+              "attemptsLabel": "--",
+              "attempts": 0
+            },
+            {
+              "index": "C",
+              "name": "Secret message",
+              "url": "https://codeforces.com/contest/2194/problem/C",
+              "status": "pending",
+              "attemptsLabel": "--",
+              "attempts": 0
+            },
+            {
+              "index": "D",
+              "name": "Table Cut",
+              "url": "https://codeforces.com/contest/2194/problem/D",
+              "status": "pending",
+              "attemptsLabel": "--",
+              "attempts": 0
+            },
+            {
+              "index": "E",
+              "name": "The Turtle Strikes Back",
+              "url": "https://codeforces.com/contest/2194/problem/E",
+              "status": "pending",
+              "attemptsLabel": "--",
+              "attempts": 0
+            },
+            {
+              "index": "F1",
+              "name": "Again Trees... (Easy Version)",
+              "url": "https://codeforces.com/contest/2194/problem/F1",
+              "status": "pending",
+              "attemptsLabel": "--",
+              "attempts": 0
+            },
+            {
+              "index": "F2",
+              "name": "Again Trees... (hard version)",
+              "url": "https://codeforces.com/contest/2194/problem/F2",
+              "status": "pending",
+              "attemptsLabel": "--",
+              "attempts": 0
+            }
+          ],
+          "startedAt": "2026-02-08 17:05",
+          "virtualAt": "2026-04-08 09:30"
+        },
         {
           "contestId": 2210,
           "name": "Codeforces Round 1089 (Div. 2)",
