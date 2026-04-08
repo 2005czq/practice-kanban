@@ -1,8 +1,8 @@
 {
   "title": "Practice Kanban",
   "startDate": "2026-03-09",
-  "generatedAt": "2026-04-08T15:52:20+08:00",
-  "updatedAtLabel": "2026-04-08 15:52 CST",
+  "generatedAt": "2026-04-08T17:18:19+08:00",
+  "updatedAtLabel": "2026-04-08 17:18 CST",
   "users": [
     {
       "handle": "Zihim",
@@ -42,17 +42,17 @@
               "index": "C1",
               "name": "XOR Convenience (Easy Version)",
               "url": "https://codeforces.com/contest/2189/problem/C1",
-              "status": "pending",
-              "attemptsLabel": "--",
+              "status": "virtual",
+              "attemptsLabel": "+",
               "attempts": 0
             },
             {
               "index": "C2",
               "name": "XOR-convenience (Hard Version)",
               "url": "https://codeforces.com/contest/2189/problem/C2",
-              "status": "pending",
-              "attemptsLabel": "--",
-              "attempts": 0
+              "status": "attempt",
+              "attemptsLabel": "-3",
+              "attempts": 3
             },
             {
               "index": "D1",
