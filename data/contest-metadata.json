@@ -74,6 +74,26 @@
         "F": "Antiamuny and Slider Movement"
       }
     },
+    "2146": {
+      "problemOrder": [
+        "A",
+        "B",
+        "C",
+        "D1",
+        "D2",
+        "E",
+        "F"
+      ],
+      "problemNames": {
+        "A": "Equal Occurrences",
+        "B": "Merging the Sets",
+        "C": "Wrong Binary Search",
+        "D1": "Max Sum OR (Easy Version)",
+        "D2": "Max Sum OR (Hard Version)",
+        "E": "Yet Another MEX Problem",
+        "F": "Bubble Sort"
+      }
+    },
     "2155": {
       "problemOrder": [
         "A",
@@ -108,6 +128,24 @@
         "D": "Marble Council",
         "E": "Binary Wine",
         "F": "Path Split"
+      }
+    },
+    "2170": {
+      "problemOrder": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F"
+      ],
+      "problemNames": {
+        "A": "Maximum Neighborhood",
+        "B": "Addition on a Segment",
+        "C": "Quotient and Remainder",
+        "D": "Almost Roman",
+        "E": "Binary Strings and Blocks",
+        "F": "Build XOR on a Segment"
       }
     },
     "2182": {

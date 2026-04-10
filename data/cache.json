@@ -1,8 +1,8 @@
 {
   "title": "Practice Kanban",
   "startDate": "2026-03-09",
-  "generatedAt": "2026-04-09T13:57:23+08:00",
-  "updatedAtLabel": "2026-04-09 13:57 CST",
+  "generatedAt": "2026-04-10T19:11:48+08:00",
+  "updatedAtLabel": "2026-04-10 19:11 CST",
   "users": [
     {
       "handle": "Zihim",
@@ -16,6 +16,64 @@
         "rank": "expert"
       },
       "contests": [
+        {
+          "contestId": 2170,
+          "name": "Educational Codeforces Round 185 (Rated for Div. 2)",
+          "url": "https://codeforces.com/contest/2170",
+          "friendsStandingsUrl": "https://codeforces.com/contest/2170/standings/friends/true",
+          "problems": [
+            {
+              "index": "A",
+              "name": "Maximum Neighborhood",
+              "url": "https://codeforces.com/contest/2170/problem/A",
+              "status": "virtual",
+              "attemptsLabel": "+",
+              "attempts": 0
+            },
+            {
+              "index": "B",
+              "name": "Addition on a Segment",
+              "url": "https://codeforces.com/contest/2170/problem/B",
+              "status": "virtual",
+              "attemptsLabel": "+1",
+              "attempts": 1
+            },
+            {
+              "index": "C",
+              "name": "Quotient and Remainder",
+              "url": "https://codeforces.com/contest/2170/problem/C",
+              "status": "virtual",
+              "attemptsLabel": "+",
+              "attempts": 0
+            },
+            {
+              "index": "D",
+              "name": "Almost Roman",
+              "url": "https://codeforces.com/contest/2170/problem/D",
+              "status": "pending",
+              "attemptsLabel": "--",
+              "attempts": 0
+            },
+            {
+              "index": "E",
+              "name": "Binary Strings and Blocks",
+              "url": "https://codeforces.com/contest/2170/problem/E",
+              "status": "attempt",
+              "attemptsLabel": "-0",
+              "attempts": 0
+            },
+            {
+              "index": "F",
+              "name": "Build XOR on a Segment",
+              "url": "https://codeforces.com/contest/2170/problem/F",
+              "status": "pending",
+              "attemptsLabel": "--",
+              "attempts": 0
+            }
+          ],
+          "startedAt": "2025-11-28 22:35",
+          "virtualAt": "2026-04-09 15:17"
+        },
         {
           "contestId": 2189,
           "name": "Codeforces Round 1075 (Div. 2)",
@@ -434,6 +492,72 @@
         "rank": "specialist"
       },
       "contests": [
+        {
+          "contestId": 2146,
+          "name": "Codeforces Round 1052 (Div. 2)",
+          "url": "https://codeforces.com/contest/2146",
+          "friendsStandingsUrl": "https://codeforces.com/contest/2146/standings/friends/true",
+          "problems": [
+            {
+              "index": "A",
+              "name": "Equal Occurrences",
+              "url": "https://codeforces.com/contest/2146/problem/A",
+              "status": "virtual",
+              "attemptsLabel": "+",
+              "attempts": 0
+            },
+            {
+              "index": "B",
+              "name": "Merging the Sets",
+              "url": "https://codeforces.com/contest/2146/problem/B",
+              "status": "virtual",
+              "attemptsLabel": "+",
+              "attempts": 0
+            },
+            {
+              "index": "C",
+              "name": "Wrong Binary Search",
+              "url": "https://codeforces.com/contest/2146/problem/C",
+              "status": "virtual",
+              "attemptsLabel": "+",
+              "attempts": 0
+            },
+            {
+              "index": "D1",
+              "name": "Max Sum OR (Easy Version)",
+              "url": "https://codeforces.com/contest/2146/problem/D1",
+              "status": "virtual",
+              "attemptsLabel": "+5",
+              "attempts": 5
+            },
+            {
+              "index": "D2",
+              "name": "Max Sum OR (Hard Version)",
+              "url": "https://codeforces.com/contest/2146/problem/D2",
+              "status": "upsolved",
+              "attemptsLabel": "+",
+              "attempts": 0
+            },
+            {
+              "index": "E",
+              "name": "Yet Another MEX Problem",
+              "url": "https://codeforces.com/contest/2146/problem/E",
+              "status": "pending",
+              "attemptsLabel": "--",
+              "attempts": 0
+            },
+            {
+              "index": "F",
+              "name": "Bubble Sort",
+              "url": "https://codeforces.com/contest/2146/problem/F",
+              "status": "pending",
+              "attemptsLabel": "--",
+              "attempts": 0
+            }
+          ],
+          "startedAt": "2025-09-21 22:35",
+          "virtualAt": "2026-04-09 14:50"
+        },
         {
           "contestId": 2155,
           "name": "Codeforces Round 1056 (Div. 2)",
@@ -1918,6 +2042,80 @@
         "rank": "newbie"
       },
       "contests": [
+        {
+          "contestId": 2191,
+          "name": "Codeforces Round 1073 (Div. 2)",
+          "url": "https://codeforces.com/contest/2191",
+          "friendsStandingsUrl": "https://codeforces.com/contest/2191/standings/friends/true",
+          "problems": [
+            {
+              "index": "A",
+              "name": "Array Coloring",
+              "url": "https://codeforces.com/contest/2191/problem/A",
+              "status": "virtual",
+              "attemptsLabel": "+",
+              "attempts": 0
+            },
+            {
+              "index": "B",
+              "name": "MEX Reordering",
+              "url": "https://codeforces.com/contest/2191/problem/B",
+              "status": "virtual",
+              "attemptsLabel": "+3",
+              "attempts": 3
+            },
+            {
+              "index": "C",
+              "name": "Sorting Game",
+              "url": "https://codeforces.com/contest/2191/problem/C",
+              "status": "pending",
+              "attemptsLabel": "--",
+              "attempts": 0
+            },
+            {
+              "index": "D1",
+              "name": "Sub-RBS (Easy Version)",
+              "url": "https://codeforces.com/contest/2191/problem/D1",
+              "status": "pending",
+              "attemptsLabel": "--",
+              "attempts": 0
+            },
+            {
+              "index": "D2",
+              "name": "Sub-RBS (Hard Version)",
+              "url": "https://codeforces.com/contest/2191/problem/D2",
+              "status": "pending",
+              "attemptsLabel": "--",
+              "attempts": 0
+            },
+            {
+              "index": "E",
+              "name": "Comparable Permutations",
+              "url": "https://codeforces.com/contest/2191/problem/E",
+              "status": "pending",
+              "attemptsLabel": "--",
+              "attempts": 0
+            },
+            {
+              "index": "F",
+              "name": "Prufer Vertex",
+              "url": "https://codeforces.com/contest/2191/problem/F",
+              "status": "pending",
+              "attemptsLabel": "--",
+              "attempts": 0
+            },
+            {
+              "index": "G",
+              "name": "Median Permutation",
+              "url": "https://codeforces.com/contest/2191/problem/G",
+              "status": "pending",
+              "attemptsLabel": "--",
+              "attempts": 0
+            }
+          ],
+          "startedAt": "2026-01-17 22:35",
+          "virtualAt": "2026-04-09 15:00"
+        },
         {
           "contestId": 2182,
           "name": "Educational Codeforces Round 186 (Rated for Div. 2)",
