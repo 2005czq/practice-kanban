@@ -11,7 +11,7 @@ import (
 	"time"
 )
 
-const baseURL = "https://codeforces.com/api"
+var baseURL = "https://codeforces.com/api"
 
 type Client struct {
 	httpClient *http.Client
@@ -89,8 +89,6 @@ func (c *Client) GetUsersInfo(ctx context.Context, handles []string) ([]UserInfo
 func (c *Client) GetContestStandings(ctx context.Context, contestID int) (Standings, error) {
 	return get[Standings](ctx, c, "/contest.standings", map[string]string{
 		"contestId": fmt.Sprintf("%d", contestID),
-		"from":      "1",
-		"count":     "1",
 	})
 }
 
@@ -124,7 +122,7 @@ func get[T any](ctx context.Context, c *Client, path string, query map[string]st
 	defer resp.Body.Close()
 
 	if resp.StatusCode != http.StatusOK {
-		return zero, fmt.Errorf("codeforces %s returned %s", path, resp.Status)
+		return zero, fmt.Errorf("codeforces %s returned %s: requested %s", path, resp.Status, endpoint.String())
 	}
 
 	var payload apiResponse[T]
