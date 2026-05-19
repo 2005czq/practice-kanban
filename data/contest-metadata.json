@@ -74,6 +74,26 @@
         "F": "Antiamuny and Slider Movement"
       }
     },
+    "2143": {
+      "problemOrder": [
+        "A",
+        "B",
+        "C",
+        "D1",
+        "D2",
+        "E",
+        "F"
+      ],
+      "problemNames": {
+        "A": "All Lengths Subtraction",
+        "B": "Discounts",
+        "C": "Max Tree",
+        "D1": "Inversion Graph Coloring (Easy Version)",
+        "D2": "Inversion Graph Coloring (Hard Version)",
+        "E": "Make Good",
+        "F": "Increasing Xor"
+      }
+    },
     "2146": {
       "problemOrder": [
         "A",
@@ -130,6 +150,26 @@
         "F": "Path Split"
       }
     },
+    "2169": {
+      "problemOrder": [
+        "A",
+        "B",
+        "C",
+        "D1",
+        "D2",
+        "E",
+        "F"
+      ],
+      "problemNames": {
+        "A": "Alice and Bob",
+        "B": "Drifting Away",
+        "C": "Range Operation",
+        "D1": "Removal of a Sequence (Easy Version)",
+        "D2": "Removal of a Sequence (Hard Version)",
+        "E": "Points Selection",
+        "F": "Subsequence Problem"
+      }
+    },
     "2170": {
       "problemOrder": [
         "A",
@@ -146,6 +186,24 @@
         "D": "Almost Roman",
         "E": "Binary Strings and Blocks",
         "F": "Build XOR on a Segment"
+      }
+    },
+    "2173": {
+      "problemOrder": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F"
+      ],
+      "problemNames": {
+        "A": "Sleeping Through Classes",
+        "B": "Niko's Tactical Cards",
+        "C": "Kanade's Perfect Multiples",
+        "D": "Taiga's Carry Chains",
+        "E": "Shiro's Mirror Duel",
+        "F": "Isla's Memory Thresholds"
       }
     },
     "2182": {
@@ -408,6 +466,170 @@
         "D": "A Simple RBS Problem",
         "E": "Binary Strings are Simple?",
         "F": "A Simple Problem"
+      }
+    },
+    "2216": {
+      "problemOrder": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F"
+      ],
+      "problemNames": {
+        "A": "Course Wishes",
+        "B": "THU Packing Puzzle",
+        "C": "Interval Mod",
+        "D": "RReeppeettiittiioonn",
+        "E": "Oriented Journey",
+        "F": "Star Map"
+      }
+    },
+    "2217": {
+      "problemOrder": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G",
+        "H"
+      ],
+      "problemNames": {
+        "A": "The Equalizer",
+        "B": "Flip the Bit (Easy Version)",
+        "C": "Grid Covering",
+        "D": "Flip the Bit (Hard Version)",
+        "E": "Definitely Larger",
+        "F": "Interval Game",
+        "G": "Down the Pivot",
+        "H": "Closer"
+      }
+    },
+    "2220": {
+      "problemOrder": [
+        "A",
+        "B",
+        "C",
+        "D1",
+        "D2",
+        "E",
+        "F"
+      ],
+      "problemNames": {
+        "A": "Blocked",
+        "B": "OIE Excursion",
+        "C": "Grid L",
+        "D1": "Unique Values (Easy version)",
+        "D2": "Unique Values (Hard version)",
+        "E": "Coloring a Red Black Tree",
+        "F": "MEX Replacement on Tree"
+      }
+    },
+    "2224": {
+      "problemOrder": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F"
+      ],
+      "problemNames": {
+        "A": "Zhily and Array Operating",
+        "B": "Zhily and Mex and Max",
+        "C": "Zhily and Bracket Swapping",
+        "D": "Zhily and Barknights",
+        "E": "Zhily and Signpost",
+        "F": "Zhily and Cycle"
+      }
+    },
+    "2225": {
+      "problemOrder": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "problemNames": {
+        "A": "A Number Between Two Others",
+        "B": "Alternating String",
+        "C": "Red-Black Pairs",
+        "D": "Exceptional Segments",
+        "E": "Covering Points with Circles",
+        "F": "String Cutting",
+        "G": "Simple Problem"
+      }
+    },
+    "2226": {
+      "problemOrder": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "problemNames": {
+        "A": "Disturbing Distribution",
+        "B": "Everything Everywhere",
+        "C": "Mental Monumental (Easy Version)",
+        "D": "Reserved Reversals",
+        "E": "Mental Monumental (Hard Version)",
+        "F": "Inversion Invasion",
+        "G": "Stop Spot"
+      }
+    },
+    "4": {
+      "problemOrder": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "problemNames": {
+        "A": "Watermelon",
+        "B": "Before an Exam",
+        "C": "Registration System",
+        "D": "Mysterious Present"
+      }
+    },
+    "6": {
+      "problemOrder": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "problemNames": {
+        "A": "Triangle",
+        "B": "President's Office",
+        "C": "Alice, Bob and Chocolate",
+        "D": "Lizards and Basements 2",
+        "E": "Exposition"
+      }
+    },
+    "9": {
+      "problemOrder": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "problemNames": {
+        "A": "Die Roll",
+        "B": "Running Student",
+        "C": "Hexadecimal's Numbers",
+        "D": "How many trees?",
+        "E": "Interestring graph and Apples"
       }
     }
   }

@@ -1,14 +1,14 @@
 {
   "title": "Practice Kanban",
   "startDate": "2026-03-09",
-  "generatedAt": "2026-04-13T07:50:51+08:00",
-  "updatedAtLabel": "2026-04-13 07:50 CST",
+  "generatedAt": "2026-05-19T23:51:11+08:00",
+  "updatedAtLabel": "2026-05-19 23:51 CST",
   "users": [
     {
       "handle": "Zihim",
       "avatarUrl": "https://userpic.codeforces.org/no-title.jpg",
       "currentRating": {
-        "value": 1612,
+        "value": 1642,
         "rank": "expert"
       },
       "maxRating": {
@@ -16,6 +16,262 @@
         "rank": "expert"
       },
       "contests": [
+        {
+          "contestId": 2225,
+          "name": "Educational Codeforces Round 189 (Rated for Div. 2)",
+          "url": "https://codeforces.com/contest/2225",
+          "friendsStandingsUrl": "https://codeforces.com/contest/2225/standings/friends/true",
+          "problems": [
+            {
+              "index": "A",
+              "name": "A Number Between Two Others",
+              "url": "https://codeforces.com/contest/2225/problem/A",
+              "status": "virtual",
+              "attemptsLabel": "+",
+              "attempts": 0
+            },
+            {
+              "index": "B",
+              "name": "Alternating String",
+              "url": "https://codeforces.com/contest/2225/problem/B",
+              "status": "virtual",
+              "attemptsLabel": "+",
+              "attempts": 0
+            },
+            {
+              "index": "C",
+              "name": "Red-Black Pairs",
+              "url": "https://codeforces.com/contest/2225/problem/C",
+              "status": "virtual",
+              "attemptsLabel": "+",
+              "attempts": 0
+            },
+            {
+              "index": "D",
+              "name": "Exceptional Segments",
+              "url": "https://codeforces.com/contest/2225/problem/D",
+              "status": "virtual",
+              "attemptsLabel": "+1",
+              "attempts": 1
+            },
+            {
+              "index": "E",
+              "name": "Covering Points with Circles",
+              "url": "https://codeforces.com/contest/2225/problem/E",
+              "status": "upsolved",
+              "attemptsLabel": "+4",
+              "attempts": 4
+            },
+            {
+              "index": "F",
+              "name": "String Cutting",
+              "url": "https://codeforces.com/contest/2225/problem/F",
+              "status": "upsolved",
+              "attemptsLabel": "+",
+              "attempts": 0
+            },
+            {
+              "index": "G",
+              "name": "Simple Problem",
+              "url": "https://codeforces.com/contest/2225/problem/G",
+              "status": "attempt",
+              "attemptsLabel": "-0",
+              "attempts": 0
+            }
+          ],
+          "startedAt": "2026-04-21 22:35",
+          "virtualAt": "2026-04-22 21:57"
+        },
+        {
+          "contestId": 2169,
+          "name": "Educational Codeforces Round 184 (Rated for Div. 2)",
+          "url": "https://codeforces.com/contest/2169",
+          "friendsStandingsUrl": "https://codeforces.com/contest/2169/standings/friends/true",
+          "problems": [
+            {
+              "index": "A",
+              "name": "Alice and Bob",
+              "url": "https://codeforces.com/contest/2169/problem/A",
+              "status": "virtual",
+              "attemptsLabel": "+",
+              "attempts": 0
+            },
+            {
+              "index": "B",
+              "name": "Drifting Away",
+              "url": "https://codeforces.com/contest/2169/problem/B",
+              "status": "virtual",
+              "attemptsLabel": "+1",
+              "attempts": 1
+            },
+            {
+              "index": "C",
+              "name": "Range Operation",
+              "url": "https://codeforces.com/contest/2169/problem/C",
+              "status": "virtual",
+              "attemptsLabel": "+",
+              "attempts": 0
+            },
+            {
+              "index": "D1",
+              "name": "Removal of a Sequence (Easy Version)",
+              "url": "https://codeforces.com/contest/2169/problem/D1",
+              "status": "virtual",
+              "attemptsLabel": "+",
+              "attempts": 0
+            },
+            {
+              "index": "D2",
+              "name": "Removal of a Sequence (Hard Version)",
+              "url": "https://codeforces.com/contest/2169/problem/D2",
+              "status": "upsolved",
+              "attemptsLabel": "+1",
+              "attempts": 1
+            },
+            {
+              "index": "E",
+              "name": "Points Selection",
+              "url": "https://codeforces.com/contest/2169/problem/E",
+              "status": "pending",
+              "attemptsLabel": "--",
+              "attempts": 0
+            },
+            {
+              "index": "F",
+              "name": "Subsequence Problem",
+              "url": "https://codeforces.com/contest/2169/problem/F",
+              "status": "pending",
+              "attemptsLabel": "--",
+              "attempts": 0
+            }
+          ],
+          "startedAt": "2025-11-14 22:35",
+          "virtualAt": "2026-04-16 14:50"
+        },
+        {
+          "contestId": 2216,
+          "name": "Codeforces Round 1092 (Unrated, Div. 2, Based on THUPC 2026 — Finals)",
+          "url": "https://codeforces.com/contest/2216",
+          "friendsStandingsUrl": "https://codeforces.com/contest/2216/standings/friends/true",
+          "problems": [
+            {
+              "index": "A",
+              "name": "Course Wishes",
+              "url": "https://codeforces.com/contest/2216/problem/A",
+              "status": "virtual",
+              "attemptsLabel": "+",
+              "attempts": 0
+            },
+            {
+              "index": "B",
+              "name": "THU Packing Puzzle",
+              "url": "https://codeforces.com/contest/2216/problem/B",
+              "status": "virtual",
+              "attemptsLabel": "+",
+              "attempts": 0
+            },
+            {
+              "index": "C",
+              "name": "Interval Mod",
+              "url": "https://codeforces.com/contest/2216/problem/C",
+              "status": "pending",
+              "attemptsLabel": "--",
+              "attempts": 0
+            },
+            {
+              "index": "D",
+              "name": "RReeppeettiittiioonn",
+              "url": "https://codeforces.com/contest/2216/problem/D",
+              "status": "pending",
+              "attemptsLabel": "--",
+              "attempts": 0
+            },
+            {
+              "index": "E",
+              "name": "Oriented Journey",
+              "url": "https://codeforces.com/contest/2216/problem/E",
+              "status": "pending",
+              "attemptsLabel": "--",
+              "attempts": 0
+            },
+            {
+              "index": "F",
+              "name": "Star Map",
+              "url": "https://codeforces.com/contest/2216/problem/F",
+              "status": "pending",
+              "attemptsLabel": "--",
+              "attempts": 0
+            }
+          ],
+          "startedAt": "2026-04-12 13:35",
+          "virtualAt": "2026-04-15 14:51"
+        },
+        {
+          "contestId": 2220,
+          "name": "Codeforces Round 1093 (Div. 2)",
+          "url": "https://codeforces.com/contest/2220",
+          "friendsStandingsUrl": "https://codeforces.com/contest/2220/standings/friends/true",
+          "problems": [
+            {
+              "index": "A",
+              "name": "Blocked",
+              "url": "https://codeforces.com/contest/2220/problem/A",
+              "status": "virtual",
+              "attemptsLabel": "+",
+              "attempts": 0
+            },
+            {
+              "index": "B",
+              "name": "OIE Excursion",
+              "url": "https://codeforces.com/contest/2220/problem/B",
+              "status": "virtual",
+              "attemptsLabel": "+1",
+              "attempts": 1
+            },
+            {
+              "index": "C",
+              "name": "Grid L",
+              "url": "https://codeforces.com/contest/2220/problem/C",
+              "status": "virtual",
+              "attemptsLabel": "+",
+              "attempts": 0
+            },
+            {
+              "index": "D1",
+              "name": "Unique Values (Easy version)",
+              "url": "https://codeforces.com/contest/2220/problem/D1",
+              "status": "upsolved",
+              "attemptsLabel": "+",
+              "attempts": 0
+            },
+            {
+              "index": "D2",
+              "name": "Unique Values (Hard version)",
+              "url": "https://codeforces.com/contest/2220/problem/D2",
+              "status": "upsolved",
+              "attemptsLabel": "+",
+              "attempts": 0
+            },
+            {
+              "index": "E",
+              "name": "Coloring a Red Black Tree",
+              "url": "https://codeforces.com/contest/2220/problem/E",
+              "status": "pending",
+              "attemptsLabel": "--",
+              "attempts": 0
+            },
+            {
+              "index": "F",
+              "name": "MEX Replacement on Tree",
+              "url": "https://codeforces.com/contest/2220/problem/F",
+              "status": "pending",
+              "attemptsLabel": "--",
+              "attempts": 0
+            }
+          ],
+          "startedAt": "2026-04-13 22:35",
+          "virtualAt": "2026-04-14 20:54"
+        },
         {
           "contestId": 2170,
           "name": "Educational Codeforces Round 185 (Rated for Div. 2)",
@@ -482,16 +738,148 @@
     },
     {
       "handle": "yangxuan",
-      "avatarUrl": "https://userpic.codeforces.org/4392842/title/9f0e79a94f720d00.jpg",
+      "avatarUrl": "https://userpic.codeforces.org/4392842/title/ab2422df0809e828.jpg",
       "currentRating": {
-        "value": 1508,
+        "value": 1539,
         "rank": "specialist"
       },
       "maxRating": {
-        "value": 1512,
+        "value": 1564,
         "rank": "specialist"
       },
       "contests": [
+        {
+          "contestId": 2143,
+          "name": "Codeforces Round 1051 (Div. 2)",
+          "url": "https://codeforces.com/contest/2143",
+          "friendsStandingsUrl": "https://codeforces.com/contest/2143/standings/friends/true",
+          "problems": [
+            {
+              "index": "A",
+              "name": "All Lengths Subtraction",
+              "url": "https://codeforces.com/contest/2143/problem/A",
+              "status": "virtual",
+              "attemptsLabel": "+",
+              "attempts": 0
+            },
+            {
+              "index": "B",
+              "name": "Discounts",
+              "url": "https://codeforces.com/contest/2143/problem/B",
+              "status": "virtual",
+              "attemptsLabel": "+1",
+              "attempts": 1
+            },
+            {
+              "index": "C",
+              "name": "Max Tree",
+              "url": "https://codeforces.com/contest/2143/problem/C",
+              "status": "virtual",
+              "attemptsLabel": "+",
+              "attempts": 0
+            },
+            {
+              "index": "D1",
+              "name": "Inversion Graph Coloring (Easy Version)",
+              "url": "https://codeforces.com/contest/2143/problem/D1",
+              "status": "pending",
+              "attemptsLabel": "--",
+              "attempts": 0
+            },
+            {
+              "index": "D2",
+              "name": "Inversion Graph Coloring (Hard Version)",
+              "url": "https://codeforces.com/contest/2143/problem/D2",
+              "status": "pending",
+              "attemptsLabel": "--",
+              "attempts": 0
+            },
+            {
+              "index": "E",
+              "name": "Make Good",
+              "url": "https://codeforces.com/contest/2143/problem/E",
+              "status": "pending",
+              "attemptsLabel": "--",
+              "attempts": 0
+            },
+            {
+              "index": "F",
+              "name": "Increasing Xor",
+              "url": "https://codeforces.com/contest/2143/problem/F",
+              "status": "pending",
+              "attemptsLabel": "--",
+              "attempts": 0
+            }
+          ],
+          "startedAt": "2025-09-17 22:35",
+          "virtualAt": "2026-04-16 14:45"
+        },
+        {
+          "contestId": 2220,
+          "name": "Codeforces Round 1093 (Div. 2)",
+          "url": "https://codeforces.com/contest/2220",
+          "friendsStandingsUrl": "https://codeforces.com/contest/2220/standings/friends/true",
+          "problems": [
+            {
+              "index": "A",
+              "name": "Blocked",
+              "url": "https://codeforces.com/contest/2220/problem/A",
+              "status": "virtual",
+              "attemptsLabel": "+2",
+              "attempts": 2
+            },
+            {
+              "index": "B",
+              "name": "OIE Excursion",
+              "url": "https://codeforces.com/contest/2220/problem/B",
+              "status": "virtual",
+              "attemptsLabel": "+2",
+              "attempts": 2
+            },
+            {
+              "index": "C",
+              "name": "Grid L",
+              "url": "https://codeforces.com/contest/2220/problem/C",
+              "status": "virtual",
+              "attemptsLabel": "+",
+              "attempts": 0
+            },
+            {
+              "index": "D1",
+              "name": "Unique Values (Easy version)",
+              "url": "https://codeforces.com/contest/2220/problem/D1",
+              "status": "pending",
+              "attemptsLabel": "--",
+              "attempts": 0
+            },
+            {
+              "index": "D2",
+              "name": "Unique Values (Hard version)",
+              "url": "https://codeforces.com/contest/2220/problem/D2",
+              "status": "pending",
+              "attemptsLabel": "--",
+              "attempts": 0
+            },
+            {
+              "index": "E",
+              "name": "Coloring a Red Black Tree",
+              "url": "https://codeforces.com/contest/2220/problem/E",
+              "status": "pending",
+              "attemptsLabel": "--",
+              "attempts": 0
+            },
+            {
+              "index": "F",
+              "name": "MEX Replacement on Tree",
+              "url": "https://codeforces.com/contest/2220/problem/F",
+              "status": "pending",
+              "attemptsLabel": "--",
+              "attempts": 0
+            }
+          ],
+          "startedAt": "2026-04-13 22:35",
+          "virtualAt": "2026-04-15 14:50"
+        },
         {
           "contestId": 2146,
           "name": "Codeforces Round 1052 (Div. 2)",
@@ -886,14 +1274,80 @@
       "handle": "cjtyyds",
       "avatarUrl": "https://userpic.codeforces.org/no-title.jpg",
       "currentRating": {
-        "value": 1221,
-        "rank": "pupil"
+        "value": 1416,
+        "rank": "specialist"
       },
       "maxRating": {
-        "value": 1382,
-        "rank": "pupil"
+        "value": 1416,
+        "rank": "specialist"
       },
       "contests": [
+        {
+          "contestId": 2188,
+          "name": "Codeforces Round 1077 (Div. 2)",
+          "url": "https://codeforces.com/contest/2188",
+          "friendsStandingsUrl": "https://codeforces.com/contest/2188/standings/friends/true",
+          "problems": [
+            {
+              "index": "A",
+              "name": "Divisible Permutation",
+              "url": "https://codeforces.com/contest/2188/problem/A",
+              "status": "virtual",
+              "attemptsLabel": "+",
+              "attempts": 0
+            },
+            {
+              "index": "B",
+              "name": "Seats",
+              "url": "https://codeforces.com/contest/2188/problem/B",
+              "status": "virtual",
+              "attemptsLabel": "+1",
+              "attempts": 1
+            },
+            {
+              "index": "C",
+              "name": "Restricted Sorting",
+              "url": "https://codeforces.com/contest/2188/problem/C",
+              "status": "upsolved",
+              "attemptsLabel": "+2",
+              "attempts": 2
+            },
+            {
+              "index": "D",
+              "name": "Shortest Statement Ever",
+              "url": "https://codeforces.com/contest/2188/problem/D",
+              "status": "upsolved",
+              "attemptsLabel": "+2",
+              "attempts": 2
+            },
+            {
+              "index": "E",
+              "name": "Jerry and Tom",
+              "url": "https://codeforces.com/contest/2188/problem/E",
+              "status": "pending",
+              "attemptsLabel": "--",
+              "attempts": 0
+            },
+            {
+              "index": "F",
+              "name": "Cool Problem",
+              "url": "https://codeforces.com/contest/2188/problem/F",
+              "status": "pending",
+              "attemptsLabel": "--",
+              "attempts": 0
+            },
+            {
+              "index": "G",
+              "name": "Doors and Keys",
+              "url": "https://codeforces.com/contest/2188/problem/G",
+              "status": "pending",
+              "attemptsLabel": "--",
+              "attempts": 0
+            }
+          ],
+          "startedAt": "2026-01-29 22:35",
+          "virtualAt": "2026-04-13 09:30"
+        },
         {
           "contestId": 2194,
           "name": "Codeforces Round 1078 (Div. 2)",
@@ -920,9 +1374,9 @@
               "index": "C",
               "name": "Secret message",
               "url": "https://codeforces.com/contest/2194/problem/C",
-              "status": "pending",
-              "attemptsLabel": "--",
-              "attempts": 0
+              "status": "upsolved",
+              "attemptsLabel": "+1",
+              "attempts": 1
             },
             {
               "index": "D",
@@ -1297,6 +1751,336 @@
       },
       "contests": [
         {
+          "contestId": 2192,
+          "name": "Codeforces Round 1081 (Div. 2)",
+          "url": "https://codeforces.com/contest/2192",
+          "friendsStandingsUrl": "https://codeforces.com/contest/2192/standings/friends/true",
+          "problems": [
+            {
+              "index": "A",
+              "name": "String Rotation Game",
+              "url": "https://codeforces.com/contest/2192/problem/A",
+              "status": "virtual",
+              "attemptsLabel": "+",
+              "attempts": 0
+            },
+            {
+              "index": "B",
+              "name": "Flipping Binary String",
+              "url": "https://codeforces.com/contest/2192/problem/B",
+              "status": "virtual",
+              "attemptsLabel": "+",
+              "attempts": 0
+            },
+            {
+              "index": "C",
+              "name": "All-in-one Gun",
+              "url": "https://codeforces.com/contest/2192/problem/C",
+              "status": "upsolved",
+              "attemptsLabel": "+1",
+              "attempts": 1
+            },
+            {
+              "index": "D",
+              "name": "Cost of Tree",
+              "url": "https://codeforces.com/contest/2192/problem/D",
+              "status": "upsolved",
+              "attemptsLabel": "+1",
+              "attempts": 1
+            },
+            {
+              "index": "E",
+              "name": "Swap to Rearrange",
+              "url": "https://codeforces.com/contest/2192/problem/E",
+              "status": "upsolved",
+              "attemptsLabel": "+1",
+              "attempts": 1
+            },
+            {
+              "index": "F",
+              "name": "Fish Fight",
+              "url": "https://codeforces.com/contest/2192/problem/F",
+              "status": "pending",
+              "attemptsLabel": "--",
+              "attempts": 0
+            }
+          ],
+          "startedAt": "2026-02-21 22:35",
+          "virtualAt": "2026-04-30 21:24"
+        },
+        {
+          "contestId": 2226,
+          "name": "Codeforces Round 1095 (Div. 2)",
+          "url": "https://codeforces.com/contest/2226",
+          "friendsStandingsUrl": "https://codeforces.com/contest/2226/standings/friends/true",
+          "problems": [
+            {
+              "index": "A",
+              "name": "Disturbing Distribution",
+              "url": "https://codeforces.com/contest/2226/problem/A",
+              "status": "upsolved",
+              "attemptsLabel": "+1",
+              "attempts": 1
+            },
+            {
+              "index": "B",
+              "name": "Everything Everywhere",
+              "url": "https://codeforces.com/contest/2226/problem/B",
+              "status": "upsolved",
+              "attemptsLabel": "+",
+              "attempts": 0
+            },
+            {
+              "index": "C",
+              "name": "Mental Monumental (Easy Version)",
+              "url": "https://codeforces.com/contest/2226/problem/C",
+              "status": "upsolved",
+              "attemptsLabel": "+",
+              "attempts": 0
+            },
+            {
+              "index": "D",
+              "name": "Reserved Reversals",
+              "url": "https://codeforces.com/contest/2226/problem/D",
+              "status": "upsolved",
+              "attemptsLabel": "+",
+              "attempts": 0
+            },
+            {
+              "index": "E",
+              "name": "Mental Monumental (Hard Version)",
+              "url": "https://codeforces.com/contest/2226/problem/E",
+              "status": "upsolved",
+              "attemptsLabel": "+",
+              "attempts": 0
+            },
+            {
+              "index": "F",
+              "name": "Inversion Invasion",
+              "url": "https://codeforces.com/contest/2226/problem/F",
+              "status": "pending",
+              "attemptsLabel": "--",
+              "attempts": 0
+            },
+            {
+              "index": "G",
+              "name": "Stop Spot",
+              "url": "https://codeforces.com/contest/2226/problem/G",
+              "status": "pending",
+              "attemptsLabel": "--",
+              "attempts": 0
+            }
+          ],
+          "startedAt": "2026-04-28 22:35",
+          "virtualAt": "2026-04-29 19:09"
+        },
+        {
+          "contestId": 2210,
+          "name": "Codeforces Round 1089 (Div. 2)",
+          "url": "https://codeforces.com/contest/2210",
+          "friendsStandingsUrl": "https://codeforces.com/contest/2210/standings/friends/true",
+          "problems": [
+            {
+              "index": "A",
+              "name": "A Simple Sequence",
+              "url": "https://codeforces.com/contest/2210/problem/A",
+              "status": "virtual",
+              "attemptsLabel": "+",
+              "attempts": 0
+            },
+            {
+              "index": "B",
+              "name": "Simply Sitting on Chairs",
+              "url": "https://codeforces.com/contest/2210/problem/B",
+              "status": "virtual",
+              "attemptsLabel": "+",
+              "attempts": 0
+            },
+            {
+              "index": "C1",
+              "name": "A Simple GCD Problem (Easy Version)",
+              "url": "https://codeforces.com/contest/2210/problem/C1",
+              "status": "virtual",
+              "attemptsLabel": "+",
+              "attempts": 0
+            },
+            {
+              "index": "C2",
+              "name": "A Simple GCD Problem (Hard Version)",
+              "url": "https://codeforces.com/contest/2210/problem/C2",
+              "status": "upsolved",
+              "attemptsLabel": "+6",
+              "attempts": 6
+            },
+            {
+              "index": "D",
+              "name": "A Simple RBS Problem",
+              "url": "https://codeforces.com/contest/2210/problem/D",
+              "status": "upsolved",
+              "attemptsLabel": "+",
+              "attempts": 0
+            },
+            {
+              "index": "E",
+              "name": "Binary Strings are Simple?",
+              "url": "https://codeforces.com/contest/2210/problem/E",
+              "status": "pending",
+              "attemptsLabel": "--",
+              "attempts": 0
+            },
+            {
+              "index": "F",
+              "name": "A Simple Problem",
+              "url": "https://codeforces.com/contest/2210/problem/F",
+              "status": "pending",
+              "attemptsLabel": "--",
+              "attempts": 0
+            }
+          ],
+          "startedAt": "2026-03-29 22:35",
+          "virtualAt": "2026-04-28 10:47"
+        },
+        {
+          "contestId": 2220,
+          "name": "Codeforces Round 1093 (Div. 2)",
+          "url": "https://codeforces.com/contest/2220",
+          "friendsStandingsUrl": "https://codeforces.com/contest/2220/standings/friends/true",
+          "problems": [
+            {
+              "index": "A",
+              "name": "Blocked",
+              "url": "https://codeforces.com/contest/2220/problem/A",
+              "status": "virtual",
+              "attemptsLabel": "+",
+              "attempts": 0
+            },
+            {
+              "index": "B",
+              "name": "OIE Excursion",
+              "url": "https://codeforces.com/contest/2220/problem/B",
+              "status": "virtual",
+              "attemptsLabel": "+1",
+              "attempts": 1
+            },
+            {
+              "index": "C",
+              "name": "Grid L",
+              "url": "https://codeforces.com/contest/2220/problem/C",
+              "status": "upsolved",
+              "attemptsLabel": "+",
+              "attempts": 0
+            },
+            {
+              "index": "D1",
+              "name": "Unique Values (Easy version)",
+              "url": "https://codeforces.com/contest/2220/problem/D1",
+              "status": "upsolved",
+              "attemptsLabel": "+1",
+              "attempts": 1
+            },
+            {
+              "index": "D2",
+              "name": "Unique Values (Hard version)",
+              "url": "https://codeforces.com/contest/2220/problem/D2",
+              "status": "upsolved",
+              "attemptsLabel": "+",
+              "attempts": 0
+            },
+            {
+              "index": "E",
+              "name": "Coloring a Red Black Tree",
+              "url": "https://codeforces.com/contest/2220/problem/E",
+              "status": "pending",
+              "attemptsLabel": "--",
+              "attempts": 0
+            },
+            {
+              "index": "F",
+              "name": "MEX Replacement on Tree",
+              "url": "https://codeforces.com/contest/2220/problem/F",
+              "status": "pending",
+              "attemptsLabel": "--",
+              "attempts": 0
+            }
+          ],
+          "startedAt": "2026-04-13 22:35",
+          "virtualAt": "2026-04-27 16:25"
+        },
+        {
+          "contestId": 2217,
+          "name": "Codeforces Round 1091 (Div. 2) and CodeCraft 26",
+          "url": "https://codeforces.com/contest/2217",
+          "friendsStandingsUrl": "https://codeforces.com/contest/2217/standings/friends/true",
+          "problems": [
+            {
+              "index": "A",
+              "name": "The Equalizer",
+              "url": "https://codeforces.com/contest/2217/problem/A",
+              "status": "virtual",
+              "attemptsLabel": "+",
+              "attempts": 0
+            },
+            {
+              "index": "B",
+              "name": "Flip the Bit (Easy Version)",
+              "url": "https://codeforces.com/contest/2217/problem/B",
+              "status": "upsolved",
+              "attemptsLabel": "+1",
+              "attempts": 1
+            },
+            {
+              "index": "C",
+              "name": "Grid Covering",
+              "url": "https://codeforces.com/contest/2217/problem/C",
+              "status": "upsolved",
+              "attemptsLabel": "+",
+              "attempts": 0
+            },
+            {
+              "index": "D",
+              "name": "Flip the Bit (Hard Version)",
+              "url": "https://codeforces.com/contest/2217/problem/D",
+              "status": "pending",
+              "attemptsLabel": "--",
+              "attempts": 0
+            },
+            {
+              "index": "E",
+              "name": "Definitely Larger",
+              "url": "https://codeforces.com/contest/2217/problem/E",
+              "status": "pending",
+              "attemptsLabel": "--",
+              "attempts": 0
+            },
+            {
+              "index": "F",
+              "name": "Interval Game",
+              "url": "https://codeforces.com/contest/2217/problem/F",
+              "status": "pending",
+              "attemptsLabel": "--",
+              "attempts": 0
+            },
+            {
+              "index": "G",
+              "name": "Down the Pivot",
+              "url": "https://codeforces.com/contest/2217/problem/G",
+              "status": "pending",
+              "attemptsLabel": "--",
+              "attempts": 0
+            },
+            {
+              "index": "H",
+              "name": "Closer",
+              "url": "https://codeforces.com/contest/2217/problem/H",
+              "status": "pending",
+              "attemptsLabel": "--",
+              "attempts": 0
+            }
+          ],
+          "startedAt": "2026-04-07 22:35",
+          "virtualAt": "2026-04-13 08:39"
+        },
+        {
           "contestId": 2205,
           "name": "Codeforces Round 1083 (Div. 2)",
           "url": "https://codeforces.com/contest/2205",
@@ -1666,14 +2450,146 @@
       "handle": "hesto",
       "avatarUrl": "https://userpic.codeforces.org/4714803/title/a5b23e847deb16b3.jpg",
       "currentRating": {
-        "value": 1283,
+        "value": 1262,
         "rank": "pupil"
       },
       "maxRating": {
-        "value": 1283,
+        "value": 1304,
         "rank": "pupil"
       },
       "contests": [
+        {
+          "contestId": 2226,
+          "name": "Codeforces Round 1095 (Div. 2)",
+          "url": "https://codeforces.com/contest/2226",
+          "friendsStandingsUrl": "https://codeforces.com/contest/2226/standings/friends/true",
+          "problems": [
+            {
+              "index": "A",
+              "name": "Disturbing Distribution",
+              "url": "https://codeforces.com/contest/2226/problem/A",
+              "status": "virtual",
+              "attemptsLabel": "+",
+              "attempts": 0
+            },
+            {
+              "index": "B",
+              "name": "Everything Everywhere",
+              "url": "https://codeforces.com/contest/2226/problem/B",
+              "status": "virtual",
+              "attemptsLabel": "+",
+              "attempts": 0
+            },
+            {
+              "index": "C",
+              "name": "Mental Monumental (Easy Version)",
+              "url": "https://codeforces.com/contest/2226/problem/C",
+              "status": "pending",
+              "attemptsLabel": "--",
+              "attempts": 0
+            },
+            {
+              "index": "D",
+              "name": "Reserved Reversals",
+              "url": "https://codeforces.com/contest/2226/problem/D",
+              "status": "pending",
+              "attemptsLabel": "--",
+              "attempts": 0
+            },
+            {
+              "index": "E",
+              "name": "Mental Monumental (Hard Version)",
+              "url": "https://codeforces.com/contest/2226/problem/E",
+              "status": "pending",
+              "attemptsLabel": "--",
+              "attempts": 0
+            },
+            {
+              "index": "F",
+              "name": "Inversion Invasion",
+              "url": "https://codeforces.com/contest/2226/problem/F",
+              "status": "pending",
+              "attemptsLabel": "--",
+              "attempts": 0
+            },
+            {
+              "index": "G",
+              "name": "Stop Spot",
+              "url": "https://codeforces.com/contest/2226/problem/G",
+              "status": "pending",
+              "attemptsLabel": "--",
+              "attempts": 0
+            }
+          ],
+          "startedAt": "2026-04-28 22:35",
+          "virtualAt": "2026-05-02 00:40"
+        },
+        {
+          "contestId": 2220,
+          "name": "Codeforces Round 1093 (Div. 2)",
+          "url": "https://codeforces.com/contest/2220",
+          "friendsStandingsUrl": "https://codeforces.com/contest/2220/standings/friends/true",
+          "problems": [
+            {
+              "index": "A",
+              "name": "Blocked",
+              "url": "https://codeforces.com/contest/2220/problem/A",
+              "status": "virtual",
+              "attemptsLabel": "+",
+              "attempts": 0
+            },
+            {
+              "index": "B",
+              "name": "OIE Excursion",
+              "url": "https://codeforces.com/contest/2220/problem/B",
+              "status": "upsolved",
+              "attemptsLabel": "+1",
+              "attempts": 1
+            },
+            {
+              "index": "C",
+              "name": "Grid L",
+              "url": "https://codeforces.com/contest/2220/problem/C",
+              "status": "upsolved",
+              "attemptsLabel": "+",
+              "attempts": 0
+            },
+            {
+              "index": "D1",
+              "name": "Unique Values (Easy version)",
+              "url": "https://codeforces.com/contest/2220/problem/D1",
+              "status": "upsolved",
+              "attemptsLabel": "+",
+              "attempts": 0
+            },
+            {
+              "index": "D2",
+              "name": "Unique Values (Hard version)",
+              "url": "https://codeforces.com/contest/2220/problem/D2",
+              "status": "upsolved",
+              "attemptsLabel": "+",
+              "attempts": 0
+            },
+            {
+              "index": "E",
+              "name": "Coloring a Red Black Tree",
+              "url": "https://codeforces.com/contest/2220/problem/E",
+              "status": "upsolved",
+              "attemptsLabel": "+",
+              "attempts": 0
+            },
+            {
+              "index": "F",
+              "name": "MEX Replacement on Tree",
+              "url": "https://codeforces.com/contest/2220/problem/F",
+              "status": "pending",
+              "attemptsLabel": "--",
+              "attempts": 0
+            }
+          ],
+          "startedAt": "2026-04-13 22:35",
+          "virtualAt": "2026-04-14 08:30"
+        },
         {
           "contestId": 2209,
           "name": "Codeforces Round 1087 (Div. 2)",
@@ -2034,14 +2950,462 @@
       "handle": "Hone7",
       "avatarUrl": "https://userpic.codeforces.org/4382473/title/c25533fcf0f55c17.jpg",
       "currentRating": {
-        "value": 1125,
+        "value": 1155,
         "rank": "newbie"
       },
       "maxRating": {
-        "value": 1125,
+        "value": 1155,
         "rank": "newbie"
       },
       "contests": [
+        {
+          "contestId": 2224,
+          "name": "Codeforces Round 1097 (Div. 2,  Based on Zhili Cup 2026)",
+          "url": "https://codeforces.com/contest/2224",
+          "friendsStandingsUrl": "https://codeforces.com/contest/2224/standings/friends/true",
+          "problems": [
+            {
+              "index": "A",
+              "name": "Zhily and Array Operating",
+              "url": "https://codeforces.com/contest/2224/problem/A",
+              "status": "virtual",
+              "attemptsLabel": "+",
+              "attempts": 0
+            },
+            {
+              "index": "B",
+              "name": "Zhily and Mex and Max",
+              "url": "https://codeforces.com/contest/2224/problem/B",
+              "status": "upsolved",
+              "attemptsLabel": "+5",
+              "attempts": 5
+            },
+            {
+              "index": "C",
+              "name": "Zhily and Bracket Swapping",
+              "url": "https://codeforces.com/contest/2224/problem/C",
+              "status": "pending",
+              "attemptsLabel": "--",
+              "attempts": 0
+            },
+            {
+              "index": "D",
+              "name": "Zhily and Barknights",
+              "url": "https://codeforces.com/contest/2224/problem/D",
+              "status": "pending",
+              "attemptsLabel": "--",
+              "attempts": 0
+            },
+            {
+              "index": "E",
+              "name": "Zhily and Signpost",
+              "url": "https://codeforces.com/contest/2224/problem/E",
+              "status": "pending",
+              "attemptsLabel": "--",
+              "attempts": 0
+            },
+            {
+              "index": "F",
+              "name": "Zhily and Cycle",
+              "url": "https://codeforces.com/contest/2224/problem/F",
+              "status": "pending",
+              "attemptsLabel": "--",
+              "attempts": 0
+            }
+          ],
+          "startedAt": "2026-05-06 14:05",
+          "virtualAt": "2026-05-06 17:10"
+        },
+        {
+          "contestId": 9,
+          "name": "Codeforces Beta Round 9 (Div. 2 Only)",
+          "url": "https://codeforces.com/contest/9",
+          "friendsStandingsUrl": "https://codeforces.com/contest/9/standings/friends/true",
+          "problems": [
+            {
+              "index": "A",
+              "name": "Die Roll",
+              "url": "https://codeforces.com/contest/9/problem/A",
+              "status": "virtual",
+              "attemptsLabel": "+",
+              "attempts": 0
+            },
+            {
+              "index": "B",
+              "name": "Running Student",
+              "url": "https://codeforces.com/contest/9/problem/B",
+              "status": "virtual",
+              "attemptsLabel": "+9",
+              "attempts": 9
+            },
+            {
+              "index": "C",
+              "name": "Hexadecimal's Numbers",
+              "url": "https://codeforces.com/contest/9/problem/C",
+              "status": "upsolved",
+              "attemptsLabel": "+4",
+              "attempts": 4
+            },
+            {
+              "index": "D",
+              "name": "How many trees?",
+              "url": "https://codeforces.com/contest/9/problem/D",
+              "status": "upsolved",
+              "attemptsLabel": "+2",
+              "attempts": 2
+            },
+            {
+              "index": "E",
+              "name": "Interestring graph and Apples",
+              "url": "https://codeforces.com/contest/9/problem/E",
+              "status": "pending",
+              "attemptsLabel": "--",
+              "attempts": 0
+            }
+          ],
+          "startedAt": "2010-04-11 19:00",
+          "virtualAt": "2026-05-02 21:20"
+        },
+        {
+          "contestId": 6,
+          "name": "Codeforces Beta Round 6 (Div. 2 Only)",
+          "url": "https://codeforces.com/contest/6",
+          "friendsStandingsUrl": "https://codeforces.com/contest/6/standings/friends/true",
+          "problems": [
+            {
+              "index": "A",
+              "name": "Triangle",
+              "url": "https://codeforces.com/contest/6/problem/A",
+              "status": "virtual",
+              "attemptsLabel": "+",
+              "attempts": 0
+            },
+            {
+              "index": "B",
+              "name": "President's Office",
+              "url": "https://codeforces.com/contest/6/problem/B",
+              "status": "virtual",
+              "attemptsLabel": "+2",
+              "attempts": 2
+            },
+            {
+              "index": "C",
+              "name": "Alice, Bob and Chocolate",
+              "url": "https://codeforces.com/contest/6/problem/C",
+              "status": "upsolved",
+              "attemptsLabel": "+2",
+              "attempts": 2
+            },
+            {
+              "index": "D",
+              "name": "Lizards and Basements 2",
+              "url": "https://codeforces.com/contest/6/problem/D",
+              "status": "pending",
+              "attemptsLabel": "--",
+              "attempts": 0
+            },
+            {
+              "index": "E",
+              "name": "Exposition",
+              "url": "https://codeforces.com/contest/6/problem/E",
+              "status": "upsolved",
+              "attemptsLabel": "+",
+              "attempts": 0
+            }
+          ],
+          "startedAt": "2010-03-27 15:00",
+          "virtualAt": "2026-04-30 21:15"
+        },
+        {
+          "contestId": 4,
+          "name": "Codeforces Beta Round 4 (Div. 2 Only)",
+          "url": "https://codeforces.com/contest/4",
+          "friendsStandingsUrl": "https://codeforces.com/contest/4/standings/friends/true",
+          "problems": [
+            {
+              "index": "A",
+              "name": "Watermelon",
+              "url": "https://codeforces.com/contest/4/problem/A",
+              "status": "virtual",
+              "attemptsLabel": "+2",
+              "attempts": 2
+            },
+            {
+              "index": "B",
+              "name": "Before an Exam",
+              "url": "https://codeforces.com/contest/4/problem/B",
+              "status": "virtual",
+              "attemptsLabel": "+",
+              "attempts": 0
+            },
+            {
+              "index": "C",
+              "name": "Registration System",
+              "url": "https://codeforces.com/contest/4/problem/C",
+              "status": "virtual",
+              "attemptsLabel": "+3",
+              "attempts": 3
+            },
+            {
+              "index": "D",
+              "name": "Mysterious Present",
+              "url": "https://codeforces.com/contest/4/problem/D",
+              "status": "virtual",
+              "attemptsLabel": "+2",
+              "attempts": 2
+            }
+          ],
+          "startedAt": "2010-03-12 20:00",
+          "virtualAt": "2026-04-29 19:35"
+        },
+        {
+          "contestId": 2173,
+          "name": "Codeforces Round 1068 (Div. 2)",
+          "url": "https://codeforces.com/contest/2173",
+          "friendsStandingsUrl": "https://codeforces.com/contest/2173/standings/friends/true",
+          "problems": [
+            {
+              "index": "A",
+              "name": "Sleeping Through Classes",
+              "url": "https://codeforces.com/contest/2173/problem/A",
+              "status": "virtual",
+              "attemptsLabel": "+1",
+              "attempts": 1
+            },
+            {
+              "index": "B",
+              "name": "Niko's Tactical Cards",
+              "url": "https://codeforces.com/contest/2173/problem/B",
+              "status": "virtual",
+              "attemptsLabel": "+",
+              "attempts": 0
+            },
+            {
+              "index": "C",
+              "name": "Kanade's Perfect Multiples",
+              "url": "https://codeforces.com/contest/2173/problem/C",
+              "status": "upsolved",
+              "attemptsLabel": "+",
+              "attempts": 0
+            },
+            {
+              "index": "D",
+              "name": "Taiga's Carry Chains",
+              "url": "https://codeforces.com/contest/2173/problem/D",
+              "status": "pending",
+              "attemptsLabel": "--",
+              "attempts": 0
+            },
+            {
+              "index": "E",
+              "name": "Shiro's Mirror Duel",
+              "url": "https://codeforces.com/contest/2173/problem/E",
+              "status": "pending",
+              "attemptsLabel": "--",
+              "attempts": 0
+            },
+            {
+              "index": "F",
+              "name": "Isla's Memory Thresholds",
+              "url": "https://codeforces.com/contest/2173/problem/F",
+              "status": "pending",
+              "attemptsLabel": "--",
+              "attempts": 0
+            }
+          ],
+          "startedAt": "2025-12-05 22:35",
+          "virtualAt": "2026-04-27 23:10"
+        },
+        {
+          "contestId": 2225,
+          "name": "Educational Codeforces Round 189 (Rated for Div. 2)",
+          "url": "https://codeforces.com/contest/2225",
+          "friendsStandingsUrl": "https://codeforces.com/contest/2225/standings/friends/true",
+          "problems": [
+            {
+              "index": "A",
+              "name": "A Number Between Two Others",
+              "url": "https://codeforces.com/contest/2225/problem/A",
+              "status": "virtual",
+              "attemptsLabel": "+",
+              "attempts": 0
+            },
+            {
+              "index": "B",
+              "name": "Alternating String",
+              "url": "https://codeforces.com/contest/2225/problem/B",
+              "status": "virtual",
+              "attemptsLabel": "+1",
+              "attempts": 1
+            },
+            {
+              "index": "C",
+              "name": "Red-Black Pairs",
+              "url": "https://codeforces.com/contest/2225/problem/C",
+              "status": "upsolved",
+              "attemptsLabel": "+",
+              "attempts": 0
+            },
+            {
+              "index": "D",
+              "name": "Exceptional Segments",
+              "url": "https://codeforces.com/contest/2225/problem/D",
+              "status": "pending",
+              "attemptsLabel": "--",
+              "attempts": 0
+            },
+            {
+              "index": "E",
+              "name": "Covering Points with Circles",
+              "url": "https://codeforces.com/contest/2225/problem/E",
+              "status": "pending",
+              "attemptsLabel": "--",
+              "attempts": 0
+            },
+            {
+              "index": "F",
+              "name": "String Cutting",
+              "url": "https://codeforces.com/contest/2225/problem/F",
+              "status": "pending",
+              "attemptsLabel": "--",
+              "attempts": 0
+            },
+            {
+              "index": "G",
+              "name": "Simple Problem",
+              "url": "https://codeforces.com/contest/2225/problem/G",
+              "status": "pending",
+              "attemptsLabel": "--",
+              "attempts": 0
+            }
+          ],
+          "startedAt": "2026-04-21 22:35",
+          "virtualAt": "2026-04-24 19:40"
+        },
+        {
+          "contestId": 2216,
+          "name": "Codeforces Round 1092 (Unrated, Div. 2, Based on THUPC 2026 — Finals)",
+          "url": "https://codeforces.com/contest/2216",
+          "friendsStandingsUrl": "https://codeforces.com/contest/2216/standings/friends/true",
+          "problems": [
+            {
+              "index": "A",
+              "name": "Course Wishes",
+              "url": "https://codeforces.com/contest/2216/problem/A",
+              "status": "virtual",
+              "attemptsLabel": "+",
+              "attempts": 0
+            },
+            {
+              "index": "B",
+              "name": "THU Packing Puzzle",
+              "url": "https://codeforces.com/contest/2216/problem/B",
+              "status": "virtual",
+              "attemptsLabel": "+9",
+              "attempts": 9
+            },
+            {
+              "index": "C",
+              "name": "Interval Mod",
+              "url": "https://codeforces.com/contest/2216/problem/C",
+              "status": "upsolved",
+              "attemptsLabel": "+",
+              "attempts": 0
+            },
+            {
+              "index": "D",
+              "name": "RReeppeettiittiioonn",
+              "url": "https://codeforces.com/contest/2216/problem/D",
+              "status": "pending",
+              "attemptsLabel": "--",
+              "attempts": 0
+            },
+            {
+              "index": "E",
+              "name": "Oriented Journey",
+              "url": "https://codeforces.com/contest/2216/problem/E",
+              "status": "pending",
+              "attemptsLabel": "--",
+              "attempts": 0
+            },
+            {
+              "index": "F",
+              "name": "Star Map",
+              "url": "https://codeforces.com/contest/2216/problem/F",
+              "status": "pending",
+              "attemptsLabel": "--",
+              "attempts": 0
+            }
+          ],
+          "startedAt": "2026-04-12 13:35",
+          "virtualAt": "2026-04-16 15:00"
+        },
+        {
+          "contestId": 2220,
+          "name": "Codeforces Round 1093 (Div. 2)",
+          "url": "https://codeforces.com/contest/2220",
+          "friendsStandingsUrl": "https://codeforces.com/contest/2220/standings/friends/true",
+          "problems": [
+            {
+              "index": "A",
+              "name": "Blocked",
+              "url": "https://codeforces.com/contest/2220/problem/A",
+              "status": "virtual",
+              "attemptsLabel": "+",
+              "attempts": 0
+            },
+            {
+              "index": "B",
+              "name": "OIE Excursion",
+              "url": "https://codeforces.com/contest/2220/problem/B",
+              "status": "virtual",
+              "attemptsLabel": "+3",
+              "attempts": 3
+            },
+            {
+              "index": "C",
+              "name": "Grid L",
+              "url": "https://codeforces.com/contest/2220/problem/C",
+              "status": "pending",
+              "attemptsLabel": "--",
+              "attempts": 0
+            },
+            {
+              "index": "D1",
+              "name": "Unique Values (Easy version)",
+              "url": "https://codeforces.com/contest/2220/problem/D1",
+              "status": "pending",
+              "attemptsLabel": "--",
+              "attempts": 0
+            },
+            {
+              "index": "D2",
+              "name": "Unique Values (Hard version)",
+              "url": "https://codeforces.com/contest/2220/problem/D2",
+              "status": "pending",
+              "attemptsLabel": "--",
+              "attempts": 0
+            },
+            {
+              "index": "E",
+              "name": "Coloring a Red Black Tree",
+              "url": "https://codeforces.com/contest/2220/problem/E",
+              "status": "pending",
+              "attemptsLabel": "--",
+              "attempts": 0
+            },
+            {
+              "index": "F",
+              "name": "MEX Replacement on Tree",
+              "url": "https://codeforces.com/contest/2220/problem/F",
+              "status": "pending",
+              "attemptsLabel": "--",
+              "attempts": 0
+            }
+          ],
+          "startedAt": "2026-04-13 22:35",
+          "virtualAt": "2026-04-15 15:05"
+        },
         {
           "contestId": 2191,
           "name": "Codeforces Round 1073 (Div. 2)",
@@ -2068,8 +3432,8 @@
               "index": "C",
               "name": "Sorting Game",
               "url": "https://codeforces.com/contest/2191/problem/C",
-              "status": "pending",
-              "attemptsLabel": "--",
+              "status": "upsolved",
+              "attemptsLabel": "+",
               "attempts": 0
             },
             {
@@ -2290,8 +3654,8 @@
               "index": "C1",
               "name": "A Simple GCD Problem (Easy Version)",
               "url": "https://codeforces.com/contest/2210/problem/C1",
-              "status": "pending",
-              "attemptsLabel": "--",
+              "status": "upsolved",
+              "attemptsLabel": "+",
               "attempts": 0
             },
             {
