@@ -585,6 +585,52 @@
         "F": "Inversion Invasion",
         "G": "Stop Spot"
       }
+    },
+    "4": {
+      "problemOrder": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "problemNames": {
+        "A": "Watermelon",
+        "B": "Before an Exam",
+        "C": "Registration System",
+        "D": "Mysterious Present"
+      }
+    },
+    "6": {
+      "problemOrder": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "problemNames": {
+        "A": "Triangle",
+        "B": "President's Office",
+        "C": "Alice, Bob and Chocolate",
+        "D": "Lizards and Basements 2",
+        "E": "Exposition"
+      }
+    },
+    "9": {
+      "problemOrder": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "problemNames": {
+        "A": "Die Roll",
+        "B": "Running Student",
+        "C": "Hexadecimal's Numbers",
+        "D": "How many trees?",
+        "E": "Interestring graph and Apples"
+      }
     }
   }
 }
