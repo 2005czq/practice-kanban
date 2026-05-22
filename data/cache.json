@@ -1,15 +1,15 @@
 {
   "title": "Practice Kanban",
   "startDate": "2026-03-09",
-  "generatedAt": "2026-05-23T05:34:07+08:00",
-  "updatedAtLabel": "2026-05-23 05:34 CST",
+  "generatedAt": "2026-05-23T07:18:27+08:00",
+  "updatedAtLabel": "2026-05-23 07:18 CST",
   "users": [
     {
       "handle": "Zihim",
       "avatarUrl": "https://userpic.codeforces.org/no-title.jpg",
       "currentRating": {
-        "value": 1573,
-        "rank": "specialist"
+        "value": 1652,
+        "rank": "expert"
       },
       "maxRating": {
         "value": 1676,
@@ -814,11 +814,11 @@
       "handle": "yangxuan",
       "avatarUrl": "https://userpic.codeforces.org/4392842/title/ab2422df0809e828.jpg",
       "currentRating": {
-        "value": 1527,
+        "value": 1548,
         "rank": "specialist"
       },
       "maxRating": {
-        "value": 1527,
+        "value": 1570,
         "rank": "specialist"
       },
       "contests": [
@@ -1348,11 +1348,11 @@
       "handle": "cjtyyds",
       "avatarUrl": "https://userpic.codeforces.org/no-title.jpg",
       "currentRating": {
-        "value": 1446,
+        "value": 1451,
         "rank": "specialist"
       },
       "maxRating": {
-        "value": 1446,
+        "value": 1451,
         "rank": "specialist"
       },
       "contests": [
@@ -2524,11 +2524,11 @@
       "handle": "hesto",
       "avatarUrl": "https://userpic.codeforces.org/4714803/title/a5b23e847deb16b3.jpg",
       "currentRating": {
-        "value": 1262,
+        "value": 1267,
         "rank": "pupil"
       },
       "maxRating": {
-        "value": 1286,
+        "value": 1308,
         "rank": "pupil"
       },
       "contests": [
@@ -3024,11 +3024,11 @@
       "handle": "Hone7",
       "avatarUrl": "https://userpic.codeforces.org/4382473/title/c25533fcf0f55c17.jpg",
       "currentRating": {
-        "value": 1155,
+        "value": 1162,
         "rank": "newbie"
       },
       "maxRating": {
-        "value": 1155,
+        "value": 1162,
         "rank": "newbie"
       },
       "contests": [
