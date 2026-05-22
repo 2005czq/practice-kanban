@@ -586,6 +586,28 @@
         "G": "Stop Spot"
       }
     },
+    "2228": {
+      "problemOrder": [
+        "A",
+        "B",
+        "C1",
+        "C2",
+        "D",
+        "E1",
+        "E2",
+        "F"
+      ],
+      "problemNames": {
+        "A": "Marisa Steals Reimu's Takeout",
+        "B": "Remilia Plays Soku",
+        "C1": "Cirno and Number (Easy Version)",
+        "C2": "Cirno and Number (Hard Version)",
+        "D": "Sanae, Cross and Color",
+        "E1": "Amanojaku and Sequence (Easy Version)",
+        "E2": "Amanojaku and Sequence (Hard Version)",
+        "F": "Momoyo and the Network"
+      }
+    },
     "4": {
       "problemOrder": [
         "A",
