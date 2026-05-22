@@ -1,8 +1,8 @@
 {
   "title": "Practice Kanban",
   "startDate": "2026-03-09",
-  "generatedAt": "2026-05-22T16:31:04+08:00",
-  "updatedAtLabel": "2026-05-22 16:31 CST",
+  "generatedAt": "2026-05-22T19:59:33+08:00",
+  "updatedAtLabel": "2026-05-22 19:59 CST",
   "users": [
     {
       "handle": "Zihim",
@@ -43,16 +43,16 @@
               "name": "Cirno and Number (Easy Version)",
               "url": "https://codeforces.com/contest/2228/problem/C1",
               "status": "attempt",
-              "attemptsLabel": "-0",
-              "attempts": 0
+              "attemptsLabel": "-2",
+              "attempts": 2
             },
             {
               "index": "C2",
               "name": "Cirno and Number (Hard Version)",
               "url": "https://codeforces.com/contest/2228/problem/C2",
-              "status": "pending",
-              "attemptsLabel": "--",
-              "attempts": 0
+              "status": "attempt",
+              "attemptsLabel": "-1",
+              "attempts": 1
             },
             {
               "index": "D",
