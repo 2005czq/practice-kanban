@@ -1,8 +1,8 @@
 {
   "title": "Practice Kanban",
   "startDate": "2026-03-09",
-  "generatedAt": "2026-05-22T23:20:10+08:00",
-  "updatedAtLabel": "2026-05-22 23:20 CST",
+  "generatedAt": "2026-05-23T02:02:50+08:00",
+  "updatedAtLabel": "2026-05-23 02:02 CST",
   "users": [
     {
       "handle": "Zihim",
@@ -818,7 +818,7 @@
         "rank": "specialist"
       },
       "maxRating": {
-        "value": 1564,
+        "value": 1527,
         "rank": "specialist"
       },
       "contests": [
@@ -2528,7 +2528,7 @@
         "rank": "pupil"
       },
       "maxRating": {
-        "value": 1304,
+        "value": 1262,
         "rank": "pupil"
       },
       "contests": [
