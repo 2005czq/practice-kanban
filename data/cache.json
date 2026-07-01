@@ -1,8 +1,8 @@
 {
   "title": "Practice Kanban",
   "startDate": "2026-03-09",
-  "generatedAt": "2026-07-01T20:46:03+08:00",
-  "updatedAtLabel": "2026-07-01 20:46 CST",
+  "generatedAt": "2026-07-01T23:48:42+08:00",
+  "updatedAtLabel": "2026-07-01 23:48 CST",
   "users": [
     {
       "handle": "Zihim",
@@ -3089,6 +3089,148 @@
           ],
           "startedAt": "2026-05-06 14:05",
           "virtualAt": "2026-05-06 17:10"
+        },
+        {
+          "contestId": 9,
+          "name": "Codeforces Beta Round 9 (Div. 2 Only)",
+          "url": "https://codeforces.com/contest/9",
+          "friendsStandingsUrl": "https://codeforces.com/contest/9/standings/friends/true",
+          "problems": [
+            {
+              "index": "A",
+              "name": "Die Roll",
+              "url": "https://codeforces.com/contest/9/problem/A",
+              "status": "virtual",
+              "attemptsLabel": "+",
+              "attempts": 0
+            },
+            {
+              "index": "B",
+              "name": "Running Student",
+              "url": "https://codeforces.com/contest/9/problem/B",
+              "status": "virtual",
+              "attemptsLabel": "+9",
+              "attempts": 9
+            },
+            {
+              "index": "C",
+              "name": "Hexadecimal's Numbers",
+              "url": "https://codeforces.com/contest/9/problem/C",
+              "status": "upsolved",
+              "attemptsLabel": "+4",
+              "attempts": 4
+            },
+            {
+              "index": "D",
+              "name": "How many trees?",
+              "url": "https://codeforces.com/contest/9/problem/D",
+              "status": "upsolved",
+              "attemptsLabel": "+2",
+              "attempts": 2
+            },
+            {
+              "index": "E",
+              "name": "Interestring graph and Apples",
+              "url": "https://codeforces.com/contest/9/problem/E",
+              "status": "pending",
+              "attemptsLabel": "--",
+              "attempts": 0
+            }
+          ],
+          "startedAt": "2010-04-11 19:00",
+          "virtualAt": "2026-05-02 21:20"
+        },
+        {
+          "contestId": 6,
+          "name": "Codeforces Beta Round 6 (Div. 2 Only)",
+          "url": "https://codeforces.com/contest/6",
+          "friendsStandingsUrl": "https://codeforces.com/contest/6/standings/friends/true",
+          "problems": [
+            {
+              "index": "A",
+              "name": "Triangle",
+              "url": "https://codeforces.com/contest/6/problem/A",
+              "status": "virtual",
+              "attemptsLabel": "+",
+              "attempts": 0
+            },
+            {
+              "index": "B",
+              "name": "President's Office",
+              "url": "https://codeforces.com/contest/6/problem/B",
+              "status": "virtual",
+              "attemptsLabel": "+2",
+              "attempts": 2
+            },
+            {
+              "index": "C",
+              "name": "Alice, Bob and Chocolate",
+              "url": "https://codeforces.com/contest/6/problem/C",
+              "status": "upsolved",
+              "attemptsLabel": "+2",
+              "attempts": 2
+            },
+            {
+              "index": "D",
+              "name": "Lizards and Basements 2",
+              "url": "https://codeforces.com/contest/6/problem/D",
+              "status": "pending",
+              "attemptsLabel": "--",
+              "attempts": 0
+            },
+            {
+              "index": "E",
+              "name": "Exposition",
+              "url": "https://codeforces.com/contest/6/problem/E",
+              "status": "upsolved",
+              "attemptsLabel": "+",
+              "attempts": 0
+            }
+          ],
+          "startedAt": "2010-03-27 15:00",
+          "virtualAt": "2026-04-30 21:15"
+        },
+        {
+          "contestId": 4,
+          "name": "Codeforces Beta Round 4 (Div. 2 Only)",
+          "url": "https://codeforces.com/contest/4",
+          "friendsStandingsUrl": "https://codeforces.com/contest/4/standings/friends/true",
+          "problems": [
+            {
+              "index": "A",
+              "name": "Watermelon",
+              "url": "https://codeforces.com/contest/4/problem/A",
+              "status": "virtual",
+              "attemptsLabel": "+2",
+              "attempts": 2
+            },
+            {
+              "index": "B",
+              "name": "Before an Exam",
+              "url": "https://codeforces.com/contest/4/problem/B",
+              "status": "virtual",
+              "attemptsLabel": "+",
+              "attempts": 0
+            },
+            {
+              "index": "C",
+              "name": "Registration System",
+              "url": "https://codeforces.com/contest/4/problem/C",
+              "status": "virtual",
+              "attemptsLabel": "+3",
+              "attempts": 3
+            },
+            {
+              "index": "D",
+              "name": "Mysterious Present",
+              "url": "https://codeforces.com/contest/4/problem/D",
+              "status": "virtual",
+              "attemptsLabel": "+2",
+              "attempts": 2
+            }
+          ],
+          "startedAt": "2010-03-12 20:00",
+          "virtualAt": "2026-04-29 19:35"
         },
         {
           "contestId": 2173,
