@@ -1,15 +1,15 @@
 {
   "title": "Practice Kanban",
   "startDate": "2026-03-09",
-  "generatedAt": "2026-08-06T02:47:31+08:00",
-  "updatedAtLabel": "2026-08-06 02:47 CST",
+  "generatedAt": "2026-08-06T04:38:11+08:00",
+  "updatedAtLabel": "2026-08-06 04:38 CST",
   "users": [
     {
       "handle": "Zihim",
       "avatarUrl": "https://userpic.codeforces.org/no-title.jpg",
       "currentRating": {
-        "value": 1568,
-        "rank": "specialist"
+        "value": 1654,
+        "rank": "expert"
       },
       "maxRating": {
         "value": 1676,
