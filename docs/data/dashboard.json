@@ -1,8 +1,8 @@
 {
   "title": "Practice Kanban",
   "startDate": "2026-03-09",
-  "generatedAt": "2026-10-06T23:07:19+08:00",
-  "updatedAtLabel": "2026-10-06 23:07 CST",
+  "generatedAt": "2026-10-07T04:15:52+08:00",
+  "updatedAtLabel": "2026-10-07 04:15 CST",
   "users": [
     {
       "handle": "Zihim",
@@ -3032,6 +3032,80 @@
         "rank": "newbie"
       },
       "contests": [
+        {
+          "contestId": 2228,
+          "name": "Codeforces Round 1098 (Div. 2)",
+          "url": "https://codeforces.com/contest/2228",
+          "friendsStandingsUrl": "https://codeforces.com/contest/2228/standings/friends/true",
+          "problems": [
+            {
+              "index": "A",
+              "name": "Marisa Steals Reimu's Takeout",
+              "url": "https://codeforces.com/contest/2228/problem/A",
+              "status": "virtual",
+              "attemptsLabel": "+",
+              "attempts": 0
+            },
+            {
+              "index": "B",
+              "name": "Remilia Plays Soku",
+              "url": "https://codeforces.com/contest/2228/problem/B",
+              "status": "virtual",
+              "attemptsLabel": "+1",
+              "attempts": 1
+            },
+            {
+              "index": "C1",
+              "name": "Cirno and Number (Easy Version)",
+              "url": "https://codeforces.com/contest/2228/problem/C1",
+              "status": "attempt",
+              "attemptsLabel": "-1",
+              "attempts": 1
+            },
+            {
+              "index": "C2",
+              "name": "Cirno and Number (Hard Version)",
+              "url": "https://codeforces.com/contest/2228/problem/C2",
+              "status": "pending",
+              "attemptsLabel": "--",
+              "attempts": 0
+            },
+            {
+              "index": "D",
+              "name": "Sanae, Cross and Color",
+              "url": "https://codeforces.com/contest/2228/problem/D",
+              "status": "pending",
+              "attemptsLabel": "--",
+              "attempts": 0
+            },
+            {
+              "index": "E1",
+              "name": "Amanojaku and Sequence (Easy Version)",
+              "url": "https://codeforces.com/contest/2228/problem/E1",
+              "status": "pending",
+              "attemptsLabel": "--",
+              "attempts": 0
+            },
+            {
+              "index": "E2",
+              "name": "Amanojaku and Sequence (Hard Version)",
+              "url": "https://codeforces.com/contest/2228/problem/E2",
+              "status": "pending",
+              "attemptsLabel": "--",
+              "attempts": 0
+            },
+            {
+              "index": "F",
+              "name": "Momoyo and the Network",
+              "url": "https://codeforces.com/contest/2228/problem/F",
+              "status": "pending",
+              "attemptsLabel": "--",
+              "attempts": 0
+            }
+          ],
+          "startedAt": "2026-05-16 22:35",
+          "virtualAt": "2026-10-07 00:00"
+        },
         {
           "contestId": 2224,
           "name": "Codeforces Round 1097 (Div. 2,  Based on Zhili Cup 2026)",
