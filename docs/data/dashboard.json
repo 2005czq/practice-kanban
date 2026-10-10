@@ -1,8 +1,8 @@
 {
   "title": "Practice Kanban",
   "startDate": "2026-03-09",
-  "generatedAt": "2026-10-11T01:50:22+08:00",
-  "updatedAtLabel": "2026-10-11 01:50 CST",
+  "generatedAt": "2026-10-11T05:39:22+08:00",
+  "updatedAtLabel": "2026-10-11 05:39 CST",
   "users": [
     {
       "handle": "Zihim",
@@ -2524,7 +2524,7 @@
       "handle": "hesto",
       "avatarUrl": "https://userpic.codeforces.org/4714803/title/a5b23e847deb16b3.jpg",
       "currentRating": {
-        "value": 1218,
+        "value": 1236,
         "rank": "pupil"
       },
       "maxRating": {
@@ -3024,8 +3024,8 @@
       "handle": "Hone7",
       "avatarUrl": "https://userpic.codeforces.org/4382473/title/c25533fcf0f55c17.jpg",
       "currentRating": {
-        "value": 1207,
-        "rank": "pupil"
+        "value": 1195,
+        "rank": "newbie"
       },
       "maxRating": {
         "value": 1207,
