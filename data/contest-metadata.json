@@ -608,6 +608,26 @@
         "F": "Momoyo and the Network"
       }
     },
+    "2272": {
+      "problemOrder": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "problemNames": {
+        "A": "Maximize One MEX",
+        "B": "Frogs Jump",
+        "C": "Yet Another Black Cell Problem",
+        "D": "Connecting the Conflicts",
+        "E": "Memory Cell Interception",
+        "F": "Tree Reduction Game",
+        "G": "Ranges"
+      }
+    },
     "4": {
       "problemOrder": [
         "A",

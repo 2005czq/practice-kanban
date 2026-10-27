@@ -1,8 +1,8 @@
 {
   "title": "Practice Kanban",
   "startDate": "2026-03-09",
-  "generatedAt": "2026-10-27T15:46:56+08:00",
-  "updatedAtLabel": "2026-10-27 15:46 CST",
+  "generatedAt": "2026-10-27T22:26:12+08:00",
+  "updatedAtLabel": "2026-10-27 22:26 CST",
   "users": [
     {
       "handle": "Zihim",
@@ -16,6 +16,72 @@
         "rank": "expert"
       },
       "contests": [
+        {
+          "contestId": 2272,
+          "name": "Codeforces Round 1130 (Div. 2)",
+          "url": "https://codeforces.com/contest/2272",
+          "friendsStandingsUrl": "https://codeforces.com/contest/2272/standings/friends/true",
+          "problems": [
+            {
+              "index": "A",
+              "name": "Maximize One MEX",
+              "url": "https://codeforces.com/contest/2272/problem/A",
+              "status": "virtual",
+              "attemptsLabel": "+1",
+              "attempts": 1
+            },
+            {
+              "index": "B",
+              "name": "Frogs Jump",
+              "url": "https://codeforces.com/contest/2272/problem/B",
+              "status": "pending",
+              "attemptsLabel": "--",
+              "attempts": 0
+            },
+            {
+              "index": "C",
+              "name": "Yet Another Black Cell Problem",
+              "url": "https://codeforces.com/contest/2272/problem/C",
+              "status": "pending",
+              "attemptsLabel": "--",
+              "attempts": 0
+            },
+            {
+              "index": "D",
+              "name": "Connecting the Conflicts",
+              "url": "https://codeforces.com/contest/2272/problem/D",
+              "status": "pending",
+              "attemptsLabel": "--",
+              "attempts": 0
+            },
+            {
+              "index": "E",
+              "name": "Memory Cell Interception",
+              "url": "https://codeforces.com/contest/2272/problem/E",
+              "status": "pending",
+              "attemptsLabel": "--",
+              "attempts": 0
+            },
+            {
+              "index": "F",
+              "name": "Tree Reduction Game",
+              "url": "https://codeforces.com/contest/2272/problem/F",
+              "status": "pending",
+              "attemptsLabel": "--",
+              "attempts": 0
+            },
+            {
+              "index": "G",
+              "name": "Ranges",
+              "url": "https://codeforces.com/contest/2272/problem/G",
+              "status": "pending",
+              "attemptsLabel": "--",
+              "attempts": 0
+            }
+          ],
+          "startedAt": "2026-10-26 22:35",
+          "virtualAt": "2026-10-27 15:41"
+        },
         {
           "contestId": 2228,
           "name": "Codeforces Round 1098 (Div. 2)",
